@@ -1,0 +1,521 @@
+﻿ 
+ 
+ 
+ 
+ Licence/Community Guidelines - OpenStreetMap Foundation 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jump to content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Main menu 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Main menu 
+ move to sidebar 
+ hide 
+ 
+
+ 
+ 
+ 
+ Navigation
+ 
+ 
+ 
+ 
+ 
+ Main page About OSMF Blog Donate Join OSMF Contact FAQ Recent changes 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ OpenStreetMap Foundation 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ English 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ Appearance 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Log in 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ Personal tools 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Log in 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Licence/Community Guidelines 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page Discussion 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ English 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Read View source View history 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Tools 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Tools 
+ move to sidebar 
+ hide 
+ 
+
+ 
+ 
+ 
+ Actions
+ 
+ 
+ 
+ 
+ 
+ Read View source View history 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ General
+ 
+ 
+ 
+ 
+ 
+ What links here Related changes Printable version Permanent link Page information Cite this page 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Appearance 
+ move to sidebar 
+ hide 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ From OpenStreetMap Foundation 
+ 
+ < Licence 
+ 
+ 
+ As publisher of the OpenStreetMap geodata database under the ODbL, the OpenStreetMap Foundation, OSMF, gets asked to clarify how data can/should be used in certain situations. The OSMF's mission is to support but not control OpenStreetMap. OSMF's role as Licensor and publisher of the database should not involve dictating policy. To that end, we have evolved a process called Community Guidelines. On legal advice, what a Licensor says carries weight with users of our data and, potentially, to a judge. A court would make a final decision on the issue, however we hope these guidelines are helpful to avoid disputes arising in the first place and can be considered by the courts in coming to their verdict. 
+ Here are guidelines that have gone through the full process and have been endorsed by the OSMF board. You can also find a full list of new and evolving guidelines here .
+ Making maps where you want to mix OpenStreetMap with other sources:
+ 
+ Regional Cuts - The principle that a map provider can use maps from OpenStreetMap in one part of the world and not be obliged to share data from another supplier used elsewhere in the world has been established for several years. Here we formalise and state what we are happy with and give examples that we hope will help potential OpenStreetMap users with incompatible sources. 
+ Horizontal Layers - The principle that a map maker can make and publish a map made from several distinct horizontal layers without being obliged to share data from the non-OpenStreetMap layers has been established for several years and is much clearer with the switch to the ODbL. Here we formalise and state what we are happy with and give examples that we hope will help potential OpenStreetMap users with incompatible sources. 
+ Collective Database - A Collective Database is defined by the ODbL as a database consisting of a collection of “independent” databases. This Guideline clarifies that so long as a particular data type within a database consists entirely of non-OSM data within a regional cut, the OSM and non-OSM datasets will be considered “independent” and thus, the combination will be considered a Collective Database rather than a Derivative Database. 
+ Other guidelines:
+ 
+ Trivial Transformations - where a change is made purely algorithmically without using externally collected (non-OSM) metadata. When is it so trivial that there should be no obligation to share the changes or how they were made? 
+ Geocoding - when addresses or geographic locations from user input or third party databases are geocoded with OpenStreetMap data, what obligations apply? 
+ Produced Work - "Produced Work" is a term used by ODbL to broadly separate something created from a database but not a database itself. For OpenStreetMap, this often means a map, but could be something else (a mug, a data visualisation...). Usually the distinction is clear, but if you are having trouble in deciding, we hope that this guideline will help you. 
+ Substantial - ODbL uses the term "Substantial". "Substantial" is a term which comes from the European Database Directive. This is OpenStreetMap's view of what is substantial in our own context. 
+ Attribution Guidelines - Guidelines for OSMF's recommended forms of attribution to OpenStreetMap 
+ 
+ 
+
+ 
+
+ 
+ 
+ Retrieved from " https://osmfoundation.org/w/index.php?title=Licence/Community_Guidelines&oldid=9904 " 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ This page was last edited on 21 November 2022, at 23:40. 
+ Content is available under Creative Commons Attribution-ShareAlike 2.0 license unless otherwise noted. 
+ 
+
+ 
+ Privacy policy 
+ About OpenStreetMap Foundation 
+ Disclaimers 
+ Mobile view 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ Licence/Community Guidelines 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ Add languages 
+ 
+ 
+
+ Add topic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 

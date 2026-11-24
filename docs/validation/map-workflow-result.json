@@ -1,0 +1,14 @@
+[
+  {
+    "name": "desktop",
+    "points": 136,
+    "profiles": 2,
+    "errors": []
+  },
+  {
+    "name": "mobile",
+    "points": 136,
+    "profiles": 2,
+    "errors": []
+  }
+]

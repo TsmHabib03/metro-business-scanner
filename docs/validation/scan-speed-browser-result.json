@@ -1,0 +1,62 @@
+[
+  {
+    "name": "desktop",
+    "mockPreparation": false,
+    "observedMs": 3093,
+    "errors": [],
+    "overflow": false,
+    "tileRequests": 0,
+    "checks": [
+      "real scan",
+      "completion message",
+      "stale filters cleared",
+      "50 visible results",
+      "no active scan after completion"
+    ]
+  },
+  {
+    "name": "desktop",
+    "mockPreparation": true,
+    "observedMs": 2384,
+    "errors": [],
+    "overflow": false,
+    "tileRequests": 0,
+    "checks": [
+      "stage",
+      "elapsed time",
+      "preparation explanation",
+      "cancel disabled while pending",
+      "terminal cancellation"
+    ]
+  },
+  {
+    "name": "mobile",
+    "mockPreparation": false,
+    "observedMs": 4211,
+    "errors": [],
+    "overflow": false,
+    "tileRequests": 0,
+    "checks": [
+      "real scan",
+      "completion message",
+      "stale filters cleared",
+      "50 visible results",
+      "no active scan after completion"
+    ]
+  },
+  {
+    "name": "mobile",
+    "mockPreparation": true,
+    "observedMs": 2335,
+    "errors": [],
+    "overflow": false,
+    "tileRequests": 0,
+    "checks": [
+      "stage",
+      "elapsed time",
+      "preparation explanation",
+      "cancel disabled while pending",
+      "terminal cancellation"
+    ]
+  }
+]

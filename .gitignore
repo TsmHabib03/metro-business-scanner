@@ -1,0 +1,24 @@
+# Local validation dependencies and generated Python caches
+docs/validation/packages/
+docs/validation/vendor/
+**/__pycache__/
+*.pyc
+
+# Future application/local secrets and outputs
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.impeccable/config.local.json
+.impeccable/review/
+.local-data/
+.local-tools/
+# Local workshop state and downloaded visual calibration material
+.impeccable/questions/
+docs/design-references/
+# Original policy HTML contains publisher-side browser keys; publish readable text evidence.
+docs/research/*.html
+deployment/.env.production*
+backups/
+*.dump

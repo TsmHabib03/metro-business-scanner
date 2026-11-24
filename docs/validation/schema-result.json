@@ -1,0 +1,11 @@
+{
+  "parser": "v8.9",
+  "statements": 58,
+  "tables": 41,
+  "foreign_keys": 83,
+  "syntax": "passed",
+  "static_fk_columns_and_referenced_keys": "passed",
+  "errors": [],
+  "runtime_database_validation": "not run; no PostgreSQL/PostGIS instance used",
+  "limitations": "Static AST checks do not validate types, functions, extensions, privileges, application policy enforcement, or runtime migration behavior."
+}

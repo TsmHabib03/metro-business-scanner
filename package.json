@@ -1,0 +1,51 @@
+{
+  "name": "metro-manila-business-scanner",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -k -n api,web \"tsx watch server/index.ts\" \"vite --host 127.0.0.1\"",
+    "build": "tsc --noEmit && vite build",
+    "start": "tsx server/index.ts",
+    "test": "tsx --test tests/*.test.ts",
+    "db:start": "docker compose up -d db",
+    "db:migrate": "tsx server/migrate.ts",
+    "typecheck": "tsc --noEmit",
+    "data:setup": "python -m pip install --target .local-tools -r scripts/requirements.txt && python scripts/setup-extract.py",
+    "data:city": "python scripts/extract-city.py"
+  },
+  "dependencies": {
+    "@fastify/static": "^10.1.12",
+    "@fontsource-variable/inter": "^5.3.0",
+    "@tailwindcss/vite": "^4.1.0",
+    "dotenv": "^17.2.0",
+    "exceljs": "^4.4.0",
+    "fastify": "^5.6.0",
+    "ipaddr.js": "^2.2.0",
+    "lucide-react": "^0.468.0",
+    "maplibre-gl": "^6.19.0",
+    "pg": "^8.16.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "tailwindcss": "^4.1.0",
+    "undici": "^7.16.0",
+    "zod": "^4.1.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.0.0",
+    "@types/pg": "^8.15.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^5.1.0",
+    "concurrently": "^9.2.0",
+    "tsx": "^4.20.0",
+    "typescript": "~5.9.3",
+    "vite": "^7.2.0"
+  },
+  "overrides": {
+    "exceljs": {
+      "uuid": "11.1.1"
+    }
+  }
+}

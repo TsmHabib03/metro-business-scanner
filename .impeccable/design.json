@@ -1,0 +1,569 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-24T10:24:04.345Z",
+  "title": "Design System: Metro Manila Business Prospecting Scanner",
+  "extensions": {
+    "colorMeta": {
+      "teal": {
+        "role": "primary",
+        "displayName": "Teal",
+        "canonical": "#0b665e",
+        "tonalRamp": [
+          "oklch(15.00% 0.07807 185.27)",
+          "oklch(26.43% 0.07807 185.27)",
+          "oklch(37.86% 0.07807 185.27)",
+          "oklch(49.29% 0.07807 185.27)",
+          "oklch(60.71% 0.07807 185.27)",
+          "oklch(72.14% 0.07807 185.27)",
+          "oklch(83.57% 0.07807 185.27)",
+          "oklch(95.00% 0.07807 185.27)"
+        ]
+      },
+      "teal-hover": {
+        "role": "primary",
+        "displayName": "Teal Hover",
+        "canonical": "#084c46",
+        "tonalRamp": [
+          "oklch(15.00% 0.06294 185.51)",
+          "oklch(26.43% 0.06294 185.51)",
+          "oklch(37.86% 0.06294 185.51)",
+          "oklch(49.29% 0.06294 185.51)",
+          "oklch(60.71% 0.06294 185.51)",
+          "oklch(72.14% 0.06294 185.51)",
+          "oklch(83.57% 0.06294 185.51)",
+          "oklch(95.00% 0.06294 185.51)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "#243840",
+        "tonalRamp": [
+          "oklch(15.00% 0.02921 224.92)",
+          "oklch(26.43% 0.02921 224.92)",
+          "oklch(37.86% 0.02921 224.92)",
+          "oklch(49.29% 0.02921 224.92)",
+          "oklch(60.71% 0.02921 224.92)",
+          "oklch(72.14% 0.02921 224.92)",
+          "oklch(83.57% 0.02921 224.92)",
+          "oklch(95.00% 0.02921 224.92)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "canonical": "#5c7078",
+        "tonalRamp": [
+          "oklch(15.00% 0.02688 224.06)",
+          "oklch(26.43% 0.02688 224.06)",
+          "oklch(37.86% 0.02688 224.06)",
+          "oklch(49.29% 0.02688 224.06)",
+          "oklch(60.71% 0.02688 224.06)",
+          "oklch(72.14% 0.02688 224.06)",
+          "oklch(83.57% 0.02688 224.06)",
+          "oklch(95.00% 0.02688 224.06)"
+        ]
+      },
+      "canvas": {
+        "role": "neutral",
+        "displayName": "Canvas",
+        "canonical": "#f3f6f6",
+        "tonalRamp": [
+          "oklch(15.00% 0.00319 197.10)",
+          "oklch(26.43% 0.00319 197.10)",
+          "oklch(37.86% 0.00319 197.10)",
+          "oklch(49.29% 0.00319 197.10)",
+          "oklch(60.71% 0.00319 197.10)",
+          "oklch(72.14% 0.00319 197.10)",
+          "oklch(83.57% 0.00319 197.10)",
+          "oklch(95.00% 0.00319 197.10)"
+        ]
+      },
+      "field": {
+        "role": "neutral",
+        "displayName": "Field",
+        "canonical": "#fff",
+        "tonalRamp": [
+          "oklch(15.00% 0.00000 89.88)",
+          "oklch(26.43% 0.00000 89.88)",
+          "oklch(37.86% 0.00000 89.88)",
+          "oklch(49.29% 0.00000 89.88)",
+          "oklch(60.71% 0.00000 89.88)",
+          "oklch(72.14% 0.00000 89.88)",
+          "oklch(83.57% 0.00000 89.88)",
+          "oklch(95.00% 0.00000 89.88)"
+        ]
+      },
+      "scope": {
+        "role": "neutral",
+        "displayName": "Scope",
+        "canonical": "#f9fbfb",
+        "tonalRamp": [
+          "oklch(15.00% 0.00212 197.12)",
+          "oklch(26.43% 0.00212 197.12)",
+          "oklch(37.86% 0.00212 197.12)",
+          "oklch(49.29% 0.00212 197.12)",
+          "oklch(60.71% 0.00212 197.12)",
+          "oklch(72.14% 0.00212 197.12)",
+          "oklch(83.57% 0.00212 197.12)",
+          "oklch(95.00% 0.00212 197.12)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "canonical": "#dce4e5",
+        "tonalRamp": [
+          "oklch(15.00% 0.00872 205.89)",
+          "oklch(26.43% 0.00872 205.89)",
+          "oklch(37.86% 0.00872 205.89)",
+          "oklch(49.29% 0.00872 205.89)",
+          "oklch(60.71% 0.00872 205.89)",
+          "oklch(72.14% 0.00872 205.89)",
+          "oklch(83.57% 0.00872 205.89)",
+          "oklch(95.00% 0.00872 205.89)"
+        ]
+      },
+      "field-border": {
+        "role": "neutral",
+        "displayName": "Field Border",
+        "canonical": "#bfced1",
+        "tonalRamp": [
+          "oklch(15.00% 0.01687 211.04)",
+          "oklch(26.43% 0.01687 211.04)",
+          "oklch(37.86% 0.01687 211.04)",
+          "oklch(49.29% 0.01687 211.04)",
+          "oklch(60.71% 0.01687 211.04)",
+          "oklch(72.14% 0.01687 211.04)",
+          "oklch(83.57% 0.01687 211.04)",
+          "oklch(95.00% 0.01687 211.04)"
+        ]
+      },
+      "nav": {
+        "role": "neutral",
+        "displayName": "Nav",
+        "canonical": "#18343e",
+        "tonalRamp": [
+          "oklch(15.00% 0.03830 223.56)",
+          "oklch(26.43% 0.03830 223.56)",
+          "oklch(37.86% 0.03830 223.56)",
+          "oklch(49.29% 0.03830 223.56)",
+          "oklch(60.71% 0.03830 223.56)",
+          "oklch(72.14% 0.03830 223.56)",
+          "oklch(83.57% 0.03830 223.56)",
+          "oklch(95.00% 0.03830 223.56)"
+        ]
+      },
+      "nav-hover": {
+        "role": "neutral",
+        "displayName": "Nav Hover",
+        "canonical": "#244650",
+        "tonalRamp": [
+          "oklch(15.00% 0.04308 219.03)",
+          "oklch(26.43% 0.04308 219.03)",
+          "oklch(37.86% 0.04308 219.03)",
+          "oklch(49.29% 0.04308 219.03)",
+          "oklch(60.71% 0.04308 219.03)",
+          "oklch(72.14% 0.04308 219.03)",
+          "oklch(83.57% 0.04308 219.03)",
+          "oklch(95.00% 0.04308 219.03)"
+        ]
+      },
+      "nav-current": {
+        "role": "neutral",
+        "displayName": "Nav Current",
+        "canonical": "#2b535b",
+        "tonalRamp": [
+          "oklch(15.00% 0.04694 212.05)",
+          "oklch(26.43% 0.04694 212.05)",
+          "oklch(37.86% 0.04694 212.05)",
+          "oklch(49.29% 0.04694 212.05)",
+          "oklch(60.71% 0.04694 212.05)",
+          "oklch(72.14% 0.04694 212.05)",
+          "oklch(83.57% 0.04694 212.05)",
+          "oklch(95.00% 0.04694 212.05)"
+        ]
+      },
+      "selected": {
+        "role": "neutral",
+        "displayName": "Selected",
+        "canonical": "#e5f2ef",
+        "tonalRamp": [
+          "oklch(15.00% 0.01432 180.70)",
+          "oklch(26.43% 0.01432 180.70)",
+          "oklch(37.86% 0.01432 180.70)",
+          "oklch(49.29% 0.01432 180.70)",
+          "oklch(60.71% 0.01432 180.70)",
+          "oklch(72.14% 0.01432 180.70)",
+          "oklch(83.57% 0.01432 180.70)",
+          "oklch(95.00% 0.01432 180.70)"
+        ]
+      },
+      "focus": {
+        "role": "neutral",
+        "displayName": "Focus",
+        "canonical": "#27887f",
+        "tonalRamp": [
+          "oklch(15.00% 0.08835 186.00)",
+          "oklch(26.43% 0.08835 186.00)",
+          "oklch(37.86% 0.08835 186.00)",
+          "oklch(49.29% 0.08835 186.00)",
+          "oklch(60.71% 0.08835 186.00)",
+          "oklch(72.14% 0.08835 186.00)",
+          "oklch(83.57% 0.08835 186.00)",
+          "oklch(95.00% 0.08835 186.00)"
+        ]
+      },
+      "not-listed-bg": {
+        "role": "neutral",
+        "displayName": "Not Listed Bg",
+        "canonical": "#fbf0dc",
+        "tonalRamp": [
+          "oklch(15.00% 0.02891 82.60)",
+          "oklch(26.43% 0.02891 82.60)",
+          "oklch(37.86% 0.02891 82.60)",
+          "oklch(49.29% 0.02891 82.60)",
+          "oklch(60.71% 0.02891 82.60)",
+          "oklch(72.14% 0.02891 82.60)",
+          "oklch(83.57% 0.02891 82.60)",
+          "oklch(95.00% 0.02891 82.60)"
+        ]
+      },
+      "not-listed-text": {
+        "role": "neutral",
+        "displayName": "Not Listed Text",
+        "canonical": "#78531d",
+        "tonalRamp": [
+          "oklch(15.00% 0.08468 72.95)",
+          "oklch(26.43% 0.08468 72.95)",
+          "oklch(37.86% 0.08468 72.95)",
+          "oklch(49.29% 0.08468 72.95)",
+          "oklch(60.71% 0.08468 72.95)",
+          "oklch(72.14% 0.08468 72.95)",
+          "oklch(83.57% 0.08468 72.95)",
+          "oklch(95.00% 0.08468 72.95)"
+        ]
+      },
+      "social-bg": {
+        "role": "neutral",
+        "displayName": "Social Bg",
+        "canonical": "#f0eaf7",
+        "tonalRamp": [
+          "oklch(15.00% 0.01843 306.66)",
+          "oklch(26.43% 0.01843 306.66)",
+          "oklch(37.86% 0.01843 306.66)",
+          "oklch(49.29% 0.01843 306.66)",
+          "oklch(60.71% 0.01843 306.66)",
+          "oklch(72.14% 0.01843 306.66)",
+          "oklch(83.57% 0.01843 306.66)",
+          "oklch(95.00% 0.01843 306.66)"
+        ]
+      },
+      "social-text": {
+        "role": "neutral",
+        "displayName": "Social Text",
+        "canonical": "#654887",
+        "tonalRamp": [
+          "oklch(15.00% 0.10357 303.86)",
+          "oklch(26.43% 0.10357 303.86)",
+          "oklch(37.86% 0.10357 303.86)",
+          "oklch(49.29% 0.10357 303.86)",
+          "oklch(60.71% 0.10357 303.86)",
+          "oklch(72.14% 0.10357 303.86)",
+          "oklch(83.57% 0.10357 303.86)",
+          "oklch(95.00% 0.10357 303.86)"
+        ]
+      },
+      "existing-bg": {
+        "role": "neutral",
+        "displayName": "Existing Bg",
+        "canonical": "#e5f3eb",
+        "tonalRamp": [
+          "oklch(15.00% 0.01820 161.11)",
+          "oklch(26.43% 0.01820 161.11)",
+          "oklch(37.86% 0.01820 161.11)",
+          "oklch(49.29% 0.01820 161.11)",
+          "oklch(60.71% 0.01820 161.11)",
+          "oklch(72.14% 0.01820 161.11)",
+          "oklch(83.57% 0.01820 161.11)",
+          "oklch(95.00% 0.01820 161.11)"
+        ]
+      },
+      "existing-text": {
+        "role": "neutral",
+        "displayName": "Existing Text",
+        "canonical": "#216451",
+        "tonalRamp": [
+          "oklch(15.00% 0.07426 170.84)",
+          "oklch(26.43% 0.07426 170.84)",
+          "oklch(37.86% 0.07426 170.84)",
+          "oklch(49.29% 0.07426 170.84)",
+          "oklch(60.71% 0.07426 170.84)",
+          "oklch(72.14% 0.07426 170.84)",
+          "oklch(83.57% 0.07426 170.84)",
+          "oklch(95.00% 0.07426 170.84)"
+        ]
+      },
+      "unavailable-bg": {
+        "role": "neutral",
+        "displayName": "Unavailable Bg",
+        "canonical": "#faebe8",
+        "tonalRamp": [
+          "oklch(15.00% 0.01685 31.08)",
+          "oklch(26.43% 0.01685 31.08)",
+          "oklch(37.86% 0.01685 31.08)",
+          "oklch(49.29% 0.01685 31.08)",
+          "oklch(60.71% 0.01685 31.08)",
+          "oklch(72.14% 0.01685 31.08)",
+          "oklch(83.57% 0.01685 31.08)",
+          "oklch(95.00% 0.01685 31.08)"
+        ]
+      },
+      "unavailable-text": {
+        "role": "neutral",
+        "displayName": "Unavailable Text",
+        "canonical": "#973d34",
+        "tonalRamp": [
+          "oklch(15.00% 0.12304 28.24)",
+          "oklch(26.43% 0.12304 28.24)",
+          "oklch(37.86% 0.12304 28.24)",
+          "oklch(49.29% 0.12304 28.24)",
+          "oklch(60.71% 0.12304 28.24)",
+          "oklch(72.14% 0.12304 28.24)",
+          "oklch(83.57% 0.12304 28.24)",
+          "oklch(95.00% 0.12304 28.24)"
+        ]
+      },
+      "review-bg": {
+        "role": "neutral",
+        "displayName": "Review Bg",
+        "canonical": "#f0f3f3",
+        "tonalRamp": [
+          "oklch(15.00% 0.00320 197.10)",
+          "oklch(26.43% 0.00320 197.10)",
+          "oklch(37.86% 0.00320 197.10)",
+          "oklch(49.29% 0.00320 197.10)",
+          "oklch(60.71% 0.00320 197.10)",
+          "oklch(72.14% 0.00320 197.10)",
+          "oklch(83.57% 0.00320 197.10)",
+          "oklch(95.00% 0.00320 197.10)"
+        ]
+      },
+      "review-text": {
+        "role": "neutral",
+        "displayName": "Review Text",
+        "canonical": "#425b65",
+        "tonalRamp": [
+          "oklch(15.00% 0.03415 224.56)",
+          "oklch(26.43% 0.03415 224.56)",
+          "oklch(37.86% 0.03415 224.56)",
+          "oklch(49.29% 0.03415 224.56)",
+          "oklch(60.71% 0.03415 224.56)",
+          "oklch(72.14% 0.03415 224.56)",
+          "oklch(83.57% 0.03415 224.56)",
+          "oklch(95.00% 0.03415 224.56)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Page headings."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Panel headings."
+      },
+      "section": {
+        "displayName": "Section",
+        "purpose": "Evidence subsections and scope headings."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Form values and ordinary workspace text."
+      },
+      "prose": {
+        "displayName": "Prose",
+        "purpose": "Help, source explanations and long notes."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Control captions and primary/secondary button text."
+      }
+    },
+    "shadows": [
+      {
+        "name": "export-menu",
+        "value": "0 7px 22px #193e432b",
+        "purpose": "Export overlay."
+      },
+      {
+        "name": "evidence-drawer",
+        "value": "-15px 0 50px #18343e26",
+        "purpose": "Desktop configuration and evidence sheets; absent on mobile."
+      }
+    ],
+    "motion": [
+      {
+        "name": "record-open",
+        "value": ".18s cubic-bezier(.16,1,.3,1)",
+        "purpose": "Clipped reveal of selected record title."
+      },
+      {
+        "name": "progress-spin",
+        "value": "1s linear infinite",
+        "purpose": "Progress icon rotation."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation:none;transition:none;scroll-behavior:auto",
+        "purpose": "Respect reduced-motion preference."
+      },
+      {
+        "name": "skeleton-pulse",
+        "value": "1.5s ease-in-out infinite",
+        "purpose": "Pending record placeholders; disabled for reduced motion."
+      },
+      {
+        "name": "map-camera",
+        "value": "400–500ms",
+        "purpose": "Fit, selection and cluster expansion; instant for reduced motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide",
+        "value": "1700px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1350px"
+      },
+      {
+        "name": "compact-workspace",
+        "value": "1100px"
+      },
+      {
+        "name": "icon-rail",
+        "value": "800px"
+      },
+      {
+        "name": "mobile",
+        "value": "620px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Main discovery and save actions.",
+      "html": "<button class=\"ds-primary ds-focus\">Start discovery scan</button>",
+      "css": ".ds-primary{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:10px 14px;border-radius:var(--radius,6px);font-family:'Inter Variable',Inter,sans-serif;font-size:12px;font-weight:550;min-height:39px;cursor:pointer;border:0;background:var(--teal,#0b665e);color:#fff}.ds-primary:hover{background:#084c46}.ds-primary:disabled{opacity:.55;cursor:not-allowed}@media(max-width:620px){.ds-primary{min-height:44px}}.ds-focus:focus-visible{outline:3px solid var(--focus,#27887f);outline-offset:3px}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Supporting actions and website checks.",
+      "html": "<button class=\"ds-secondary ds-focus\">Check website</button>",
+      "css": ".ds-secondary{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:10px 14px;border-radius:var(--radius,6px);font-family:'Inter Variable',Inter,sans-serif;font-size:12px;font-weight:550;min-height:39px;cursor:pointer;border:1px solid #c6d3d5;background:#fff;color:var(--ink,#243840)}.ds-secondary:hover{background:#f1f6f5}.ds-secondary:disabled{opacity:.55;cursor:not-allowed}@media(max-width:620px){.ds-secondary{min-height:44px}}.ds-focus:focus-visible{outline:3px solid var(--focus,#27887f);outline-offset:3px}"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "A visible label and a compact editable value.",
+      "html": "<label class=\"ds-label\">Business category<input class=\"ds-field ds-focus\" value=\"Dental clinics\"></label>",
+      "css": ".ds-label{display:block;font-family:'Inter Variable',Inter,sans-serif;font-size:12px;font-weight:550;color:var(--ink,#243840)}.ds-field{display:block;margin-top:7px;width:100%;padding:10px 11px;min-height:39px;border:1px solid #bfced1;border-radius:var(--radius,6px);background:#fff;color:var(--ink,#243840);font-family:'Inter Variable',Inter,sans-serif;font-size:13px;font-weight:400;caret-color:var(--teal,#0b665e)}.ds-focus:focus-visible{outline:3px solid var(--focus,#27887f);outline-offset:3px}"
+    },
+    {
+      "name": "Navigation",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Slate navigation with an explicit current destination.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Scanner\"><button class=\"ds-nav-item ds-current ds-focus\" aria-current=\"page\">Discover</button><button class=\"ds-nav-item ds-focus\">Prospects</button></nav>",
+      "css": ".ds-nav{padding:15px;background:var(--nav,#18343e);display:flex;flex-direction:column;gap:6px}.ds-nav-item{border:0;display:block;text-align:left;padding:12px 14px;border-radius:6px;color:#bfd0d5;font-family:'Inter Variable',Inter,sans-serif;font-size:13px;font-weight:500;background:transparent;cursor:pointer}.ds-nav-item:hover{background:#244650;color:#fff}.ds-nav-item.ds-current{background:#2b535b;color:#fff}.ds-focus:focus-visible{outline:3px solid var(--focus,#27887f);outline-offset:3px}"
+    },
+    {
+      "name": "Website Status",
+      "kind": "chip",
+      "refersTo": "badge-not-listed",
+      "description": "Written website uncertainty supported by amber color.",
+      "html": "<span class=\"ds-badge\"><span aria-hidden=\"true\"></span>No website listed</span>",
+      "css": ".ds-badge{display:inline-flex;gap:5px;align-items:center;border-radius:4px;padding:4px 6px;font-family:'Inter Variable',Inter,sans-serif;font-size:9px;line-height:1.3;font-weight:500;background:#fbf0dc;color:#78531d}.ds-badge>span{width:4px;height:4px;border-radius:50%;background:currentColor}@media(max-width:620px){.ds-badge{font-size:10px}}"
+    },
+    {
+      "name": "Working Container",
+      "kind": "card",
+      "refersTo": "container",
+      "description": "White working surface separated by a fine outline.",
+      "html": "<section class=\"ds-panel\"><h2>Scan history</h2><p>Review completed scans and source observations.</p></section>",
+      "css": ".ds-panel{background:#fff;border:1px solid var(--line,#dce4e5);border-radius:8px;padding:27px;color:var(--ink,#243840);font-family:'Inter Variable',Inter,sans-serif;min-height:180px}.ds-panel h2{margin:0;font-size:20px;font-weight:650;letter-spacing:-.02em}.ds-panel p{margin:10px 0 0;color:var(--muted,#5c7078);font-size:12px;line-height:1.7;max-width:740px}@media(max-width:620px){.ds-panel{padding:22px 18px}.ds-panel h2{font-size:18px}.ds-panel p{font-size:11px}}"
+    },
+    {
+      "name": "Selected Record",
+      "kind": "custom",
+      "refersTo": "selected-record",
+      "description": "A business record linked to its evidence.",
+      "html": "<button class=\"ds-record ds-focus\"><strong>Caindec Dental Clinic</strong><span>Dental clinic · Makati</span></button>",
+      "css": ".ds-record{display:block;text-align:left;width:100%;border:0;border-top:1px solid var(--line,#dce4e5);padding:16px;background:var(--selected,#e5f2ef);color:var(--ink,#243840);font-family:'Inter Variable',Inter,sans-serif;cursor:pointer}.ds-record:hover{background:#f4f9f7}.ds-record strong{display:block;font-size:13px;font-weight:600;line-height:1.5;overflow-wrap:anywhere}.ds-record>span{display:block;color:var(--muted,#5c7078);font-size:10px;line-height:1.6;margin-top:3px}@media(max-width:620px){.ds-record{padding:16px 14px}.ds-record strong{font-size:13px}}.ds-focus:focus-visible{outline:3px solid var(--focus,#27887f);outline-offset:3px}"
+    },
+    {
+      "name": "Source Social Link",
+      "kind": "custom",
+      "description": "A platform link with source-listed provenance.",
+      "html": "<a class=\"ds-social\" href=\"https://www.instagram.com/\"><strong>Instagram</strong><small>Source-listed contact:instagram</small></a>",
+      "css": ".ds-social{display:block;padding:11px 12px;background:#f3f7f6;border-radius:5px;color:var(--teal,#0b665e);font-family:Inter,sans-serif;text-decoration:none}.ds-social strong{font-size:12px;font-weight:600}.ds-social small{display:block;margin-top:4px;font-size:10px;color:var(--muted,#5c7078);overflow-wrap:anywhere}.ds-social:hover{background:var(--selected,#e5f2ef)}.ds-social:focus-visible{outline:3px solid var(--focus,#27887f);outline-offset:3px}"
+    },
+    {
+      "name": "Pending Result Row",
+      "kind": "custom",
+      "description": "Realistic catalog loading feedback.",
+      "html": "<div class=\"ds-pending\" role=\"status\" aria-label=\"Loading records\"><span></span><span></span><span></span></div>",
+      "css": ".ds-pending{padding:18px 0;border-bottom:1px solid var(--line,#dce4e5);display:flex;flex-direction:column;gap:10px}.ds-pending span{display:block;background:#e3eae8;height:10px;border-radius:3px;animation:ds-pulse 1.5s ease-in-out infinite;width:90%}.ds-pending span:first-child{height:14px;width:76%}.ds-pending span:last-child{width:42%}@keyframes ds-pulse{50%{background:#f0f4f3}}@media(prefers-reduced-motion:reduce){.ds-pending span{animation:none}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Library catalog",
+    "overview": "This interface is a readable working catalog. White reading surfaces, slate navigation and restrained teal actions support repeated searching and close inspection. Compact labels and aligned record rules give evidence a consistent place without crowding the business name.\n\nThe implemented system uses borders and tonal changes for everyday structure. Selection connects a record with its evidence; website assessments remain written labels so color supplements their meaning. The chosen code-led direction is recorded in the interface brief; reference images are development material.",
+    "keyCharacteristics": [
+      "White reading surfaces and slate navigation.",
+      "Teal actions and pale selected records.",
+      "Compact Inter typography with aligned data rows.",
+      "Explicit source, uncertainty and website status text.",
+      "Responsive controls and a scrollable evidence panel."
+    ],
+    "rules": [
+      {
+        "name": "The Written Status Rule",
+        "body": "Preserve a visible status label alongside every status color.",
+        "section": "colors"
+      },
+      {
+        "name": "The Legible Evidence Rule",
+        "body": "Allow business names, domains and addresses to wrap; preserve readable line spacing in evidence and source explanations.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Workspace Rule",
+        "body": "Use borders and tonal backgrounds for resting catalog sections; reserve the existing shadows for overlays.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do use teal for actions and pale teal for selected records.",
+      "Do keep status and source meaning in visible text.",
+      "Do preserve shared focus outlines and accessible navigation names.",
+      "Do let long evidence wrap and keep the mobile editor reachable by scrolling.",
+      "Do show loading when the displayed query scope changes."
+    ],
+    "donts": [
+      "Don't use status color as the sole explanation of website evidence.",
+      "Don't apply overlay shadows to ordinary catalog rows.",
+      "Don't hide essential evidence or save controls behind a fixed-height panel.",
+      "Don't show stale records or export actions as results of a newly selected filter."
+    ]
+  }
+}

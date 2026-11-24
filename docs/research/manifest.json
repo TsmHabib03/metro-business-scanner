@@ -1,0 +1,485 @@
+{
+  "research_date": "2026-11-24",
+  "generated_at_utc": "2026-11-24T09:10:30.036189+00:00",
+  "timestamp_basis": "Original HTTP headers were not preserved; file modification timestamps approximate local snapshot write times, not authoritative retrieval or effective dates.",
+  "url_basis": "Reconstructed from cited official URLs and canonical metadata; redirects/status headers were not preserved.",
+  "scope": "Official policy/product documentation and implementation transport permission evidence. Business scan records and website assessments are stored separately.",
+  "snapshots": [
+    {
+      "id": "apache",
+      "requested_or_reconstructed_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "canonical_url_in_snapshot": null,
+      "title": "",
+      "files": [
+        {
+          "path": "docs/research/apache.html",
+          "bytes": 11363,
+          "sha256": "5ef1fcae74bce63a8e857c9a404b957127cb9cf50e03718d429612b9d65fe908",
+          "snapshot_written_at_utc": "2026-11-24T07:12:24.115674+00:00"
+        },
+        {
+          "path": "docs/research/apache.txt",
+          "bytes": 10228,
+          "sha256": "ab5a80f99e8de096383bf4a15f22336ee883dbfad4358ccc956ce56faffe4c02",
+          "snapshot_written_at_utc": "2026-11-24T07:12:24.121052+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "cdla",
+      "requested_or_reconstructed_url": "https://cdla.dev/permissive-2-0/",
+      "canonical_url_in_snapshot": "https://cdla.dev/permissive-2-0/",
+      "title": "Community Data License Agreement – Permissive, Version 2.0 - CDLA",
+      "files": [
+        {
+          "path": "docs/research/cdla.html",
+          "bytes": 145338,
+          "sha256": "0874ca2b10e48c34167970df48c6767be83da49a74552cf53b8f23b842db34db",
+          "snapshot_written_at_utc": "2026-11-24T07:12:23.608462+00:00"
+        },
+        {
+          "path": "docs/research/cdla.txt",
+          "bytes": 3496,
+          "sha256": "6571c664ac578ad5d8b3e17f17aa24de0a8dd0048ce311cc6d421ff88ed08a58",
+          "snapshot_written_at_utc": "2026-11-24T07:12:23.621997+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "foursquare-api-eula",
+      "requested_or_reconstructed_url": "https://foursquare.com/legal/terms/eula/",
+      "canonical_url_in_snapshot": "https://foursquare.com/legal/terms/eula/",
+      "title": "Data Authorization Agreement | Foursquare",
+      "files": [
+        {
+          "path": "docs/research/foursquare-api-eula.html",
+          "bytes": 220601,
+          "sha256": "ad807a98a5b0fa7692b2970c48f21219e39b43c75b7838d791333fbd34e38832",
+          "snapshot_written_at_utc": "2026-11-24T07:12:21.149543+00:00"
+        },
+        {
+          "path": "docs/research/foursquare-api-eula.txt",
+          "bytes": 44370,
+          "sha256": "414241baff69e5df9237523f1f3d9763426b73f370ab9bb9f246884e199700fd",
+          "snapshot_written_at_utc": "2026-11-24T07:12:21.166197+00:00"
+        }
+      ],
+      "note": "Legacy filename: actual document is Data Authorization Agreement, not self-service API EULA."
+    },
+    {
+      "id": "foursquare-developer-terms",
+      "requested_or_reconstructed_url": "https://foursquare.com/legal/terms/enterprise-developermasterterms/",
+      "canonical_url_in_snapshot": "https://foursquare.com/legal/terms/enterprise-developermasterterms/",
+      "title": "Foursquare Developer Master Terms Of Service | Foursquare",
+      "files": [
+        {
+          "path": "docs/research/foursquare-developer-terms.html",
+          "bytes": 220053,
+          "sha256": "551f5b14284c40308c7605843685c3b65c482e4ea60bce7cdd523e117c0849eb",
+          "snapshot_written_at_utc": "2026-11-24T07:12:22.774331+00:00"
+        },
+        {
+          "path": "docs/research/foursquare-developer-terms.txt",
+          "bytes": 43758,
+          "sha256": "448d27fb41d2127a4b1bf6a7d7a0821ba73bdd9ed91da2d7bb2d5f41da54a1e8",
+          "snapshot_written_at_utc": "2026-11-24T07:12:22.796128+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "foursquare-places",
+      "requested_or_reconstructed_url": "https://foursquare.com/products/places/",
+      "canonical_url_in_snapshot": "https://foursquare.com/products/places/",
+      "title": "Point of Interest Data | 100M+ POIs Worldwide | Foursquare",
+      "files": [
+        {
+          "path": "docs/research/foursquare-places.html",
+          "bytes": 222489,
+          "sha256": "22d19d59d34f94cc6fccc7604dfc04cc4c2643b7093f438507ee9d06eeacaf9f",
+          "snapshot_written_at_utc": "2026-11-24T07:10:37.376935+00:00"
+        },
+        {
+          "path": "docs/research/foursquare-places.txt",
+          "bytes": 9189,
+          "sha256": "d970bd223415ff34d993db82897a2742cb5d81deeb5c9478952df82430af6e18",
+          "snapshot_written_at_utc": "2026-11-24T07:10:37.397636+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "foursquare-self-service-eula",
+      "requested_or_reconstructed_url": "https://foursquare.com/legal/terms/apilicenseagreement/",
+      "canonical_url_in_snapshot": "https://foursquare.com/legal/terms/apilicenseagreement/",
+      "title": "Places API - PAYG | Foursquare",
+      "files": [
+        {
+          "path": "docs/research/foursquare-self-service-eula.html",
+          "bytes": 184679,
+          "sha256": "b4cb2887ef4fe077e107121e778d5a51d13de541059897829d0d969348f0a512",
+          "snapshot_written_at_utc": "2026-11-24T07:13:39.124456+00:00"
+        },
+        {
+          "path": "docs/research/foursquare-self-service-eula.txt",
+          "bytes": 11168,
+          "sha256": "b806a21364625f7db445fdc86900dcf8aa75a8141ef1e22bc23dce6d62741385",
+          "snapshot_written_at_utc": "2026-11-24T07:13:39.137108+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "foursquare-terms",
+      "requested_or_reconstructed_url": "https://foursquare.com/legal/terms/",
+      "canonical_url_in_snapshot": "https://foursquare.com/legal/terms/",
+      "title": "Terms & Policies | Foursquare",
+      "files": [
+        {
+          "path": "docs/research/foursquare-terms.html",
+          "bytes": 224379,
+          "sha256": "679d8d31d94d92df5b9fd34b5ec60c1c4ecdef78f06c746184fe56cec5d5d233",
+          "snapshot_written_at_utc": "2026-11-24T07:10:36.391743+00:00"
+        },
+        {
+          "path": "docs/research/foursquare-terms.txt",
+          "bytes": 5456,
+          "sha256": "c746d7693ff5b7a9b3eb529f9921214348b295d4600b0817c9307325a093c075",
+          "snapshot_written_at_utc": "2026-11-24T07:10:36.425445+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "geofabrik-philippines",
+      "requested_or_reconstructed_url": "https://download.geofabrik.de/asia/philippines.html",
+      "canonical_url_in_snapshot": null,
+      "title": "Download OpenStreetMap for Philippines | Geofabrik Download Server",
+      "files": [
+        {
+          "path": "docs/research/geofabrik-philippines.html",
+          "bytes": 37950,
+          "sha256": "56265e89a18d56007f539c02bfa393c06496e6613ab34f4b8b5bb5f142a1ee22",
+          "snapshot_written_at_utc": "2026-11-24T08:13:59.276040+00:00"
+        },
+        {
+          "path": "docs/research/geofabrik-philippines.txt",
+          "bytes": 15613,
+          "sha256": "210aa8bb4ef28afc23e90de73ffa08e171e70927ec5480e9962d9dfff3a1173b",
+          "snapshot_written_at_utc": "2026-11-24T08:14:04.217864+00:00"
+        }
+      ],
+      "note": "Added for implementation permission review on 2026-11-24; filesystem times describe snapshot writes."
+    },
+    {
+      "id": "geofabrik-terms",
+      "requested_or_reconstructed_url": "https://www.geofabrik.de/data/download.html",
+      "canonical_url_in_snapshot": null,
+      "title": "GEOFABRIK // DownloadsFlagge der Bundesrepublik Deutschland",
+      "files": [
+        {
+          "path": "docs/research/geofabrik-terms.html",
+          "bytes": 12063,
+          "sha256": "9ec19dc79a43c96a603ae546e1c78e72ec8811eeb797f2098451f59e461a8dec",
+          "snapshot_written_at_utc": "2026-11-24T08:16:02.669936+00:00"
+        },
+        {
+          "path": "docs/research/geofabrik-terms.txt",
+          "bytes": 6800,
+          "sha256": "05e34eb47695739ebd266a49d72063af27ad30c3656c4f576d764f9019510771",
+          "snapshot_written_at_utc": "2026-11-24T08:16:06.652975+00:00"
+        }
+      ],
+      "note": "Added for implementation permission review on 2026-11-24; filesystem times describe snapshot writes."
+    },
+    {
+      "id": "google-maps-terms",
+      "requested_or_reconstructed_url": "https://cloud.google.com/maps-platform/terms",
+      "canonical_url_in_snapshot": "https://cloud.google.com/maps-platform/terms",
+      "title": "Google Maps Platform Terms Of Service | Google Cloud",
+      "files": [
+        {
+          "path": "docs/research/google-maps-terms.html",
+          "bytes": 2299549,
+          "sha256": "3d2691a7a7a3e2b254e7f82c1d7103d3e9611c2f4dfd1af01df2ab7493d962ee",
+          "snapshot_written_at_utc": "2026-11-24T07:03:52.589814+00:00"
+        },
+        {
+          "path": "docs/research/google-maps-terms.txt",
+          "bytes": 106991,
+          "sha256": "c5d90158385fcb06290ac1cfd8e3afbbb9222b360071b9739635f508c70fc9f5",
+          "snapshot_written_at_utc": "2026-11-24T07:03:52.722504+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "google-places-policies",
+      "requested_or_reconstructed_url": "https://developers.google.com/maps/documentation/places/web-service/policies",
+      "canonical_url_in_snapshot": "https://developers.google.com/maps/documentation/places/web-service/policies",
+      "title": "Policies and attributions for Places API | Places API (New) | Google for DevelopersGoogleGoogle",
+      "files": [
+        {
+          "path": "docs/research/google-places-policies.html",
+          "bytes": 230861,
+          "sha256": "9c9af89bc12c000da147454ec55ab66872b1632d97b105c1ec2b5573e9fb9e07",
+          "snapshot_written_at_utc": "2026-11-24T07:03:47.140815+00:00"
+        },
+        {
+          "path": "docs/research/google-places-policies.txt",
+          "bytes": 35047,
+          "sha256": "8f09eb9d701fae9bae6af3e6ff3fa4c064f1983e284f4a42ce0abe0a71d642f6",
+          "snapshot_written_at_utc": "2026-11-24T07:03:47.161534+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "google-places-usage",
+      "requested_or_reconstructed_url": "https://developers.google.com/maps/documentation/places/web-service/usage-and-billing",
+      "canonical_url_in_snapshot": "https://developers.google.com/maps/documentation/places/web-service/usage-and-billing",
+      "title": "Places API Usage and Billing | Places API (New) | Google for DevelopersGoogleGoogle",
+      "files": [
+        {
+          "path": "docs/research/google-places-usage.html",
+          "bytes": 220185,
+          "sha256": "292d981fb827d50c2b2e7b73165de537da76d86f340ab74a7a302da448fb114d",
+          "snapshot_written_at_utc": "2026-11-24T07:03:59.473573+00:00"
+        },
+        {
+          "path": "docs/research/google-places-usage.txt",
+          "bytes": 24981,
+          "sha256": "c35aa76816dea1a07de78f46bb03f028e7192e11dd0dac674352bf46ced4304e",
+          "snapshot_written_at_utc": "2026-11-24T07:03:59.482958+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "google-service-terms",
+      "requested_or_reconstructed_url": "https://cloud.google.com/maps-platform/terms/maps-service-terms",
+      "canonical_url_in_snapshot": "https://cloud.google.com/maps-platform/terms/maps-service-terms",
+      "title": "Google Maps Platform Service Specific Terms | Google Cloud",
+      "files": [
+        {
+          "path": "docs/research/google-service-terms.html",
+          "bytes": 2240822,
+          "sha256": "3c1f18c92ce2393be908d99dd89910c0309f2012a8a4af8858ca9f33023d79ba",
+          "snapshot_written_at_utc": "2026-11-24T07:03:58.041611+00:00"
+        },
+        {
+          "path": "docs/research/google-service-terms.txt",
+          "bytes": 69468,
+          "sha256": "70e42086f998cd57bd1e7015eece2ef8841c59b72b84c32171b5cf1276598313",
+          "snapshot_written_at_utc": "2026-11-24T07:03:58.211490+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "maptiler-terms",
+      "requested_or_reconstructed_url": "https://www.maptiler.com/terms/",
+      "canonical_url_in_snapshot": "https://www.maptiler.com/terms/",
+      "title": "General Terms and Conditions | MapTiler",
+      "files": [
+        {
+          "path": "docs/research/maptiler-terms.html",
+          "bytes": 271386,
+          "sha256": "a5053dd65912f8e60506e7b6ae661ec1fa61d2c066f7b8d28bb88ed7c37f5d8b",
+          "snapshot_written_at_utc": "2026-11-24T07:10:42.836674+00:00"
+        },
+        {
+          "path": "docs/research/maptiler-terms.txt",
+          "bytes": 29904,
+          "sha256": "4a58c58439324e004a622c71dc6955efb6933e68ea223ba1f3f74f70d03385d2",
+          "snapshot_written_at_utc": "2026-11-24T07:10:42.862074+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "odbl",
+      "requested_or_reconstructed_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "canonical_url_in_snapshot": null,
+      "title": "Open Data Commons Open Database License (ODbL) v1.0 — Open Data Commons: legal tools for open data",
+      "files": [
+        {
+          "path": "docs/research/odbl.html",
+          "bytes": 51548,
+          "sha256": "d2b621a9c474c0cd8b064eed32de05660bf512b09c026239cdbdb045ab552dd6",
+          "snapshot_written_at_utc": "2026-11-24T07:10:40.366588+00:00"
+        },
+        {
+          "path": "docs/research/odbl.txt",
+          "bytes": 26394,
+          "sha256": "98a5f52e579e2f3841d4e31a58da5abadc11a5fb77984df9511564d66c9fc07f",
+          "snapshot_written_at_utc": "2026-11-24T07:10:40.376352+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "osm-attribution",
+      "requested_or_reconstructed_url": "https://osmfoundation.org/wiki/Licence/Attribution_Guidelines",
+      "canonical_url_in_snapshot": null,
+      "title": "Licence/Attribution Guidelines - OpenStreetMap Foundation",
+      "files": [
+        {
+          "path": "docs/research/osm-attribution.html",
+          "bytes": 58239,
+          "sha256": "73f4f6dd590ffa7e253b42e26307f5fdfae1dcd454e5aba38f82c56709af535f",
+          "snapshot_written_at_utc": "2026-11-24T07:10:41.642190+00:00"
+        },
+        {
+          "path": "docs/research/osm-attribution.txt",
+          "bytes": 13466,
+          "sha256": "75ae497078bb2e3a5b3a208126efa25fd1ae043b500ac761419aff32ae2f7270",
+          "snapshot_written_at_utc": "2026-11-24T07:10:41.649667+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "osm-copyright",
+      "requested_or_reconstructed_url": "https://www.openstreetmap.org/copyright",
+      "canonical_url_in_snapshot": "https://www.openstreetmap.org/copyright",
+      "title": "Copyright and License | OpenStreetMap",
+      "files": [
+        {
+          "path": "docs/research/osm-copyright.html",
+          "bytes": 21319,
+          "sha256": "58335b04110f066d9f45812777cf40997d673cbb697673bb9707a9c389f4839e",
+          "snapshot_written_at_utc": "2026-11-24T07:03:59.995569+00:00"
+        },
+        {
+          "path": "docs/research/osm-copyright.txt",
+          "bytes": 6270,
+          "sha256": "5799bc4d1a3008230e7a50a82527a9e80bcde8b46102b73bd89bf8355ad411cb",
+          "snapshot_written_at_utc": "2026-11-24T07:04:00.001431+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "osm-guidelines",
+      "requested_or_reconstructed_url": "https://osmfoundation.org/wiki/Licence/Community_Guidelines",
+      "canonical_url_in_snapshot": null,
+      "title": "Licence/Community Guidelines - OpenStreetMap Foundation",
+      "files": [
+        {
+          "path": "docs/research/osm-guidelines.html",
+          "bytes": 38001,
+          "sha256": "036467be1a7474a282e4855fa0726386819d0938d814574411260be53d848856",
+          "snapshot_written_at_utc": "2026-11-24T07:04:04.015235+00:00"
+        },
+        {
+          "path": "docs/research/osm-guidelines.txt",
+          "bytes": 5240,
+          "sha256": "4493957d566b4c4140edefd108146615cdef1615230316eb6a9bce74a9c23bc0",
+          "snapshot_written_at_utc": "2026-11-24T07:04:04.020837+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "overpass-policy",
+      "requested_or_reconstructed_url": "https://dev.overpass-api.de/overpass-doc/en/preface/commons.html",
+      "canonical_url_in_snapshot": null,
+      "title": "Commons",
+      "files": [
+        {
+          "path": "docs/research/overpass-policy.html",
+          "bytes": 12242,
+          "sha256": "dea5ef4e145b8c370cac7974f450716006b66a5460b3ad0a383c7c65fa33c992",
+          "snapshot_written_at_utc": "2026-11-24T07:04:01.443523+00:00"
+        },
+        {
+          "path": "docs/research/overpass-policy.txt",
+          "bytes": 8739,
+          "sha256": "fc8da91afbabc07264cdf74c47bcaa033ae5df87052138edf5086cd69fbcc9ad",
+          "snapshot_written_at_utc": "2026-11-24T07:04:01.446525+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "overture-attribution",
+      "requested_or_reconstructed_url": "https://docs.overturemaps.org/attribution/",
+      "canonical_url_in_snapshot": "https://docs.overturemaps.org/attribution/",
+      "title": "Attribution and Licensing | Overture Documentation",
+      "files": [
+        {
+          "path": "docs/research/overture-attribution.html",
+          "bytes": 129428,
+          "sha256": "41b2e066da82bbcd9a3567115b877da0d86ec2f4cd1cdbb66818912d16fefada",
+          "snapshot_written_at_utc": "2026-11-24T08:12:31.855985+00:00"
+        },
+        {
+          "path": "docs/research/overture-attribution.txt",
+          "bytes": 37484,
+          "sha256": "002828c19a9cf40a32811795b6cfafef5b1bf2278e56358dec3097ac5c339d3a",
+          "snapshot_written_at_utc": "2026-11-24T08:12:45.314858+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "overture-places",
+      "requested_or_reconstructed_url": "https://docs.overturemaps.org/guides/places/",
+      "canonical_url_in_snapshot": "https://docs.overturemaps.org/guides/places/",
+      "title": "Overview | Overture Documentation",
+      "files": [
+        {
+          "path": "docs/research/overture-places.html",
+          "bytes": 156609,
+          "sha256": "5467aa6e59c5af98c3fccef81f76ae3ab191cf7c741dc19753f6b390a83d9c21",
+          "snapshot_written_at_utc": "2026-11-24T07:10:38.946234+00:00"
+        },
+        {
+          "path": "docs/research/overture-places.txt",
+          "bytes": 35158,
+          "sha256": "849ca88d5a813921c2f4a2a9ff54832e8c0e0489c30cedd733b983c65cd3c907",
+          "snapshot_written_at_utc": "2026-11-24T07:10:38.965002+00:00"
+        }
+      ],
+      "note": null
+    },
+    {
+      "id": "private-coffee-overpass",
+      "requested_or_reconstructed_url": "https://overpass.private.coffee/",
+      "canonical_url_in_snapshot": null,
+      "title": "Overpass by Private.coffee",
+      "files": [
+        {
+          "path": "docs/research/private-coffee-overpass.html",
+          "bytes": 13402,
+          "sha256": "0be79668423e1bc2fdb56a30114759c2f3540024f325b446dca79fe11e470e90",
+          "snapshot_written_at_utc": "2026-11-24T07:58:25.520499+00:00"
+        },
+        {
+          "path": "docs/research/private-coffee-overpass.txt",
+          "bytes": 10289,
+          "sha256": "9cc76b31e97e031c6b6796530fa98ad698520f261aba691596bf8505747c36ca",
+          "snapshot_written_at_utc": "2026-11-24T07:58:25.792055+00:00"
+        }
+      ],
+      "note": "Homepage snapshot contains #terms and #privacy. URL reconstructed from snapshot; original HTTP headers were not preserved. Added for implementation permission review on 2026-11-24."
+    }
+  ],
+  "retrieval_gaps": [
+    {
+      "url": "https://psa.gov.ph/classification/psgc",
+      "result": "HTTP 403; current codes/counts/boundaries/rights unverified"
+    },
+    {
+      "provider": "Data Axle",
+      "result": "Attempted provider page returned HTTP 403; exact attempted URL not preserved; Philippine offer unverified"
+    },
+    {
+      "provider": "Foursquare",
+      "result": "Developer overview/usage pages and initial redirect target unsuccessful; exact attempted URLs not preserved; account-specific cache/quota guidelines unverified"
+    }
+  ]
+}

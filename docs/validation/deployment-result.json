@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-11-24T10:22:03.406Z",
+  "image": "metro-scanner:validation",
+  "stored": 22,
+  "scanMs": 482,
+  "checks": [
+    "production Compose configuration",
+    "authenticated container healthcheck",
+    "anonymous access denied",
+    "cross-origin writes denied",
+    "bounded local Makati scan",
+    "map/list parity",
+    "records and notes survive app restart",
+    "PostgreSQL backup restores records and notes"
+  ],
+  "liveDeployment": false
+}

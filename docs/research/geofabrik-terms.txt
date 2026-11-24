@@ -1,0 +1,299 @@
+ 
+ 
+ 
+     
+     
+     
+     
+     
+     GEOFABRIK // Downloads 
+    
+      
+ 
+ 
+
+ 
+        
+    
+        
+        
+        
+    
+ 
+
+
+ 
+ 
+       GEOFABRIK  
+  Data  
+  Maps  
+  Services  
+  Portfolio  
+  Contact  
+  Blog  
+ 
+
+     
+     
+         
+        
+        
+              Flagge der Bundesrepublik Deutschland  Link zur deutschen Version     
+             Deutsch 
+        
+         
+     
+ 
+ 
+var menuOpen = false;
+var gMenu = document.getElementById('gMenu');
+var hamburger = document.getElementById('open-menu-icon');
+var closeMenu = function() {
+    console.log('close');
+    gMenu.classList.add('menuHide');
+    gMenu.classList.remove('menuShow');
+    hamburger.classList.add('menu-button-closed');
+    hamburger.classList.remove('menu-button-open');
+    menuOpen = false;
+}
+
+function openCloseMenu(event, onlyClose) {
+    if (menuOpen) {
+        closeMenu(event);
+    } else if (!menuOpen && !onlyClose) {
+        console.log('open');
+        gMenu.classList.remove('menuHide');
+        gMenu.classList.add('menuShow');
+        hamburger.classList.add('menu-button-open');
+        hamburger.classList.remove('menu-button-closed');
+        menuOpen = true;
+    }
+    // don't allow the element to propagagte on
+    event.stopPropagation();
+};
+
+hamburger.addEventListener('click', function(event){openCloseMenu(event, false);});
+gMenu.addEventListener('click', function(event){event.stopPropagation();});
+document.body.addEventListener('click', function(event){openCloseMenu(event, true);});
+ 
+
+ 
+ 
+
+ Our Download Server 
+
+ 
+
+
+Our download server at  https://download.geofabrik.de  has
+excerpts and derived data from the  OpenStreetMap dataset 
+available for free download. Most of these files are updated every day &ndash; any change you upload to
+OpenStreetMap should be on our download server the next day.
+
+ 
+
+ Geographic Regions 
+
+ 
+
+
+Data on the download server is organised by region. The root directory contains files that have
+a whole continent's data in them, and for all continents except Antarctica there are subdirectories in which you find individual files for various
+countries. Some countries again have their own subdirectories with data for administrative 
+subdivisions. For Germany, all "Bundesl&auml;nder" are available as separate files, and for
+England we have all individual counties. For France, we have all (historic) Departements. The file for Germany's Baden-W&uuml;rttemberg region
+is, for example, at
+
+ 
+
+ 
+ https://download.geofabrik.de/europe/germany/baden-wuerttemberg-latest.osm.pbf 
+ 
+ 
+
+
+Please let us know if you are interested in other regional excerpts that we do not offer 
+right now &ndash; we might be able to add them with little effort.
+
+ 
+
+
+ Raw data (OSM source data) 
+
+
+
+ 
+    Files with the  .osm.pbf  suffix are OpenStreetMap raw data files in the
+     PBF format .
+    They are the common format for OpenStreetMap raw data and need little memory for storage.
+    Daily diff updates ( .osc.gz , Gzip compressed OSM XML) are available on our
+    download server as well. They contain the changes of one day. The PBF files can be updated with them.
+ 
+ 
+    The Bzip2 compressed XML files we used to have on the download server are now discontinued
+    since almost all software supports .osm.pbf. If you still need bz2 files, you can 
+     create them yourself,  or order them commercially from us.
+ 
+
+ 
+
+
+
+ 
+    You need special software to process OSM raw data. It is usually command line and server software for Linux.
+    Common tools to process OpenStreetMap raw data are:
+ 
+ 
+     Import into PostGIS databases: Osm2pgsql 
+     Map rendering for print: Nik4, Maperitive 
+     Tile servers: Tirex with mod_tile and Mapnik 
+     Routing: OSRM, GraphHopper 
+     Geocoding: Nominatim, Photon 
+     General purpose libraries for processing: Osmium, Pyosmium, OSM4J 
+ 
+ 
+    Tutorials for common use cases can be found at  switch2osm.org .
+    Please  get in touch  with us if you need  consulting  or commercial support.
+ 
+
+
+ Shapefiles 
+
+ 
+
+
+Files ending in  .shp.zip  are shapefiles that you can process with almost any
+GIS software. In converting OSM data to shapefiles, we have made a default
+selection of layers containing most important layers (road and railway 
+network, forests, water areas, many points of interest). We offer more comprehensive shapefiles and shapefiles
+with other spatial extents than provided on the download server as a  paid service .
+
+ 
+
+ Raw data with personal metadata and full history 
+
+
+ 
+    OpenStreetMap raw data usually comes with metadata. Some metadata fields are obviously related to persons (user name, user ID, changeset ID).
+    The raw data files ( .osm.pbf ,  .osc.gz ,  .osm.bz2 ) on our public download server ( download.geofabrik.de ) do not contain these fields.
+    Our free shapefiles do not contain any metadata at all.
+ 
+ 
+    Because the metadata fields are needed by OpenStreetMap contributors for analysis (e.g. fighting vandalism) only, we offer raw data files with all metadata fields and regional excerpts with
+    full history on a separate download server protected by password at  osm-internal.download.geofabrik.de . This free service
+    can be used by OpenStreetMap contributors only.
+ 
+
+
+ License 
+
+ 
+
+
+All OpenStreetMap derived data on the download server is licensed under the
+ Open Database License 1.0 .
+You may use the data for any purpose, but you have to acknowledge OpenStreetMap as the data source.
+Derived databases have to retain the same license.
+
+ 
+
+ 
+
+ 
+ 
+ 
+     
+         Service 
+         
+            
+            
+            
+                     
+                     
+            
+         
+     
+     
+	     External Links 
+         
+              German OSM project page  
+              International OSM project page  
+              Best of OSM  
+         
+     
+
+     
+         Sitemap 
+           GEOFABRIK 
+ 
+  About Geofabrik  
+  About OpenStreetMap  
+  Digital Sovereignity  
+  About Open Data  
+  Contact  
+  Press  
+  Publications  
+  Students  
+ 
+ 
+  Data 
+ 
+  Downloads  
+  Vector Data Exports  
+  Routeable Data  
+  Boundary Polygons  
+  Power Networks  
+  Postal Codes  
+  Shape Files  
+  Geocoding  
+  Routing  
+  Overpass API  
+ 
+ 
+  Maps 
+ 
+  Map Styles  
+  Raster Tile Server  
+  Vector Tile Server  
+  Tile Packages  
+  Printed Maps  
+  WMS Server  
+  Contour Lines and Hillshade  
+ 
+ 
+  Services 
+ 
+  Consulting  
+  Training  
+  Software  
+  Server  
+ 
+ 
+  Portfolio  
+  Contact 
+ 
+  Mastodon  
+ 
+ 
+  Blog  
+ 
+
+     
+
+     
+         
+             &copy; 2026 Geofabrik GmbH, Karlsruhe 
+
+
+   Geofabrik is a proud member of the  OpenStreetMap Foundation  and  supporter of OpenStreetMap Germany.  
+             Map data from OpenStreetMap, ODbL 1.0 
+              Legal Notice and Privacy Statement  
+
+         
+     
+     
+
+ 
+ 
+ 
+

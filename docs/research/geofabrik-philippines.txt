@@ -1,0 +1,736 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Download OpenStreetMap for Philippines | Geofabrik Download Server 
+ 
+ 
+ 
+{ "imports": { "leaflet": "/static/leaflet/leaflet.js" } }
+ 
+ 
+ 
+ 
+Do you find OpenStreetMap data useful? Consider giving something back in the OSMF's  funding campaign! 
+ 
+ 
+    
+       
+    
+ 
+ 
+ 
+ 
+
+ 🔍 
+ Download OpenStreetMap data for this region: 
+ Philippines 
+ 
+    
+        World  
+      
+        Asia  
+      
+        Philippines  
+    
+ 
+
+
+
+ 
+   The OpenStreetMap data files provided on this server do  not  contain the user names, user IDs and changeset IDs of the OSM objects because these fields are assumed to contain personal information about the OpenStreetMap contributors and are therefore subject to data protection regulations in the European Union.
+    
+   Extracts with full metadata are only available to OpenStreetMap contributors on the  internal download server .
+ 
+
+
+
+
+
+ Commonly Used Formats 
+ 
+
+
+ 
+
+    philippines-latest.osm.pbf ,
+
+   suitable for Osmium, Osmosis, imposm, osm2pgsql, mkgmap, and others.
+
+This file was last modified  8 hours ago  and contains all OSM data up to  11 hours ago . File size: 586&nbsp;MB.
+
+ 
+
+
+ 
+
+    philippines-latest-free.shp.zip ,
+
+   yields a number of ESRI compatible shape files when unzipped.
+    (Format description PDF) 
+
+   This file was last modified on  2 hours ago . File size: 1.3&nbsp;GB.
+
+ 
+
+
+ 
+
+    philippines-latest-free.gpkg.zip ,
+
+   same as shape file but in more modern Geopackage format.
+
+   This file was last modified  2 hours ago . File size: 1.4&nbsp;GB.
+
+ 
+
+ 
+
+ Other Formats and Auxiliary Files 
+ 
+
+
+ 
+
+    philippines-internal.osh.pbf 
+
+
+   The history file contains personal data and is available on the  internal server  only.
+   See notice above for further information.
+
+ 
+
+
+ 
+
+    .geojson file 
+
+   that describes the extent of this region.
+ 
+
+
+ 
+
+    experimental 
+    vector tile package 
+
+   conforming to
+    Shortbread schema 
+   for use with MapLibre and other MVT capable software
+
+   Last modified:  5 days ago  ago, file size: 496&nbsp;MB
+
+ 
+
+
+ 
+
+    .osc.gz files 
+
+   that contain all changes in this region, suitable e.g. for Osmosis updates
+ 
+
+
+
+  Taginfo statistics for this region  
+
+
+
+ 
+    
+      raw directory index
+    
+   allowing you to see and download older files
+ 
+
+
+ 
+
+
+ 
+    
+       
+           Filename  Last modified  Filesize  
+         
+          
+              philippines-140101-free.shp.zip  
+              8 years ago  
+             133&nbsp;MB 
+          
+         
+          
+              philippines-140101.osm.pbf  
+              12 years ago  
+             71.8&nbsp;MB 
+          
+         
+          
+              philippines-150101-free.shp.zip  
+              8 years ago  
+             194&nbsp;MB 
+          
+         
+          
+              philippines-150101.osm.pbf  
+              11 years ago  
+             97.3&nbsp;MB 
+          
+         
+          
+              philippines-160101-free.shp.zip  
+              8 years ago  
+             235&nbsp;MB 
+          
+         
+          
+              philippines-160101.osm.pbf  
+              10 years ago  
+             115&nbsp;MB 
+          
+         
+          
+              philippines-170101-free.shp.zip  
+              8 years ago  
+             392&nbsp;MB 
+          
+         
+          
+              philippines-170101.osm.pbf  
+              9 years ago  
+             175&nbsp;MB 
+          
+         
+          
+              philippines-180101-free.shp.zip  
+              8 years ago  
+             481&nbsp;MB 
+          
+         
+          
+              philippines-180101.osm.pbf  
+              8 years ago  
+             207&nbsp;MB 
+          
+         
+          
+              philippines-190101-free.shp.zip  
+              7 years ago  
+             573&nbsp;MB 
+          
+         
+          
+              philippines-190101.osm.pbf  
+              7 years ago  
+             245&nbsp;MB 
+          
+         
+          
+              philippines-200101-free.shp.zip  
+              6 years ago  
+             677&nbsp;MB 
+          
+         
+          
+              philippines-200101.osm.pbf  
+              6 years ago  
+             285&nbsp;MB 
+          
+         
+          
+              philippines-210101-free.shp.zip  
+              5 years ago  
+             936&nbsp;MB 
+          
+         
+          
+              philippines-210101.osm.pbf  
+              5 years ago  
+             392&nbsp;MB 
+          
+         
+          
+              philippines-220101-free.shp.zip  
+              4 years ago  
+             1.1&nbsp;GB 
+          
+         
+          
+              philippines-220101.osm.pbf  
+              4 years ago  
+             461&nbsp;MB 
+          
+         
+          
+              philippines-230101-free.shp.zip  
+              3 years ago  
+             1.1&nbsp;GB 
+          
+         
+          
+              philippines-230101.osm.pbf  
+              3 years ago  
+             484&nbsp;MB 
+          
+         
+          
+              philippines-240101-free.shp.zip  
+              2 years ago  
+             1.2&nbsp;GB 
+          
+         
+          
+              philippines-240101.osm.pbf  
+              2 years ago  
+             510&nbsp;MB 
+          
+         
+          
+              philippines-250101-free.shp.zip  
+              1 year ago  
+             1.2&nbsp;GB 
+          
+         
+          
+              philippines-250101.osm.pbf  
+              1 year ago  
+             540&nbsp;MB 
+          
+         
+          
+              philippines-260101-free.shp.zip  
+              10 months ago  
+             1.3&nbsp;GB 
+          
+         
+          
+              philippines-260101.osm.pbf  
+              10 months ago  
+             561&nbsp;MB 
+          
+         
+          
+              philippines-260101.osm.pbf.md5  
+              10 months ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-260901-free.gpkg.zip  
+              2 months ago  
+             1.4&nbsp;GB 
+          
+         
+          
+              philippines-260901-free.shp.zip  
+              2 months ago  
+             1.3&nbsp;GB 
+          
+         
+          
+              philippines-260901.osm.pbf  
+              2 months ago  
+             577&nbsp;MB 
+          
+         
+          
+              philippines-260901.osm.pbf.md5  
+              2 months ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-261001-free.gpkg.zip  
+              1 month ago  
+             1.4&nbsp;GB 
+          
+         
+          
+              philippines-261001-free.shp.zip  
+              1 month ago  
+             1.3&nbsp;GB 
+          
+         
+          
+              philippines-261001.osm.pbf  
+              1 month ago  
+             580&nbsp;MB 
+          
+         
+          
+              philippines-261001.osm.pbf.md5  
+              1 month ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-261101-free.gpkg.zip  
+              3 weeks ago  
+             1.4&nbsp;GB 
+          
+         
+          
+              philippines-261101-free.shp.zip  
+              3 weeks ago  
+             1.3&nbsp;GB 
+          
+         
+          
+              philippines-261101.osm.pbf  
+              3 weeks ago  
+             584&nbsp;MB 
+          
+         
+          
+              philippines-261101.osm.pbf.md5  
+              3 weeks ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-261112.osm.pbf  
+              1 week ago  
+             585&nbsp;MB 
+          
+         
+          
+              philippines-261112.osm.pbf.md5  
+              1 week ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-261113.osm.pbf  
+              1 week ago  
+             585&nbsp;MB 
+          
+         
+          
+              philippines-261113.osm.pbf.md5  
+              1 week ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-261114.osm.pbf  
+              1 week ago  
+             586&nbsp;MB 
+          
+         
+          
+              philippines-261114.osm.pbf.md5  
+              1 week ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-261115.osm.pbf  
+              1 week ago  
+             586&nbsp;MB 
+          
+         
+          
+              philippines-261115.osm.pbf.md5  
+              1 week ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-261116.osm.pbf  
+              1 week ago  
+             586&nbsp;MB 
+          
+         
+          
+              philippines-261116.osm.pbf.md5  
+              1 week ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-261117-free.gpkg.zip  
+              6 days ago  
+             1.4&nbsp;GB 
+          
+         
+          
+              philippines-261117-free.shp.zip  
+              6 days ago  
+             1.3&nbsp;GB 
+          
+         
+          
+              philippines-261117.osm.pbf  
+              6 days ago  
+             586&nbsp;MB 
+          
+         
+          
+              philippines-261117.osm.pbf.md5  
+              6 days ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-261118-free.gpkg.zip  
+              5 days ago  
+             1.4&nbsp;GB 
+          
+         
+          
+              philippines-261118-free.shp.zip  
+              5 days ago  
+             1.3&nbsp;GB 
+          
+         
+          
+              philippines-261118.osm.pbf  
+              5 days ago  
+             586&nbsp;MB 
+          
+         
+          
+              philippines-261118.osm.pbf.md5  
+              5 days ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-261119-free.gpkg.zip  
+              4 days ago  
+             1.4&nbsp;GB 
+          
+         
+          
+              philippines-261119-free.shp.zip  
+              4 days ago  
+             1.3&nbsp;GB 
+          
+         
+          
+              philippines-261119.osm.pbf  
+              4 days ago  
+             586&nbsp;MB 
+          
+         
+          
+              philippines-261119.osm.pbf.md5  
+              4 days ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-261120-free.gpkg.zip  
+              3 days ago  
+             1.4&nbsp;GB 
+          
+         
+          
+              philippines-261120-free.shp.zip  
+              3 days ago  
+             1.3&nbsp;GB 
+          
+         
+          
+              philippines-261120.osm.pbf  
+              3 days ago  
+             586&nbsp;MB 
+          
+         
+          
+              philippines-261120.osm.pbf.md5  
+              3 days ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-261121-free.gpkg.zip  
+              2 days ago  
+             1.4&nbsp;GB 
+          
+         
+          
+              philippines-261121-free.shp.zip  
+              2 days ago  
+             1.3&nbsp;GB 
+          
+         
+          
+              philippines-261121.osm.pbf  
+              2 days ago  
+             586&nbsp;MB 
+          
+         
+          
+              philippines-261121.osm.pbf.md5  
+              2 days ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-261122-free.gpkg.zip  
+              1 day ago  
+             1.4&nbsp;GB 
+          
+         
+          
+              philippines-261122-free.shp.zip  
+              1 day ago  
+             1.3&nbsp;GB 
+          
+         
+          
+              philippines-261122.osm.pbf  
+              1 day ago  
+             586&nbsp;MB 
+          
+         
+          
+              philippines-261122.osm.pbf.md5  
+              1 day ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-261123-free.gpkg.zip  
+              2 hours ago  
+             1.4&nbsp;GB 
+          
+         
+          
+              philippines-261123-free.shp.zip  
+              2 hours ago  
+             1.3&nbsp;GB 
+          
+         
+          
+              philippines-261123.osm.pbf  
+              8 hours ago  
+             586&nbsp;MB 
+          
+         
+          
+              philippines-261123.osm.pbf.md5  
+              8 hours ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-latest.osm.pbf.md5  
+              15 minutes ago  
+             61.0&nbsp;B 
+          
+         
+          
+              philippines-shortbread-1.0.mbtiles  
+              5 days ago  
+             496&nbsp;MB 
+          
+         
+          
+              philippines.geojson  
+              8 hours ago  
+             404&nbsp;B 
+          
+         
+          
+              philippines.kml  
+              8 hours ago  
+             732&nbsp;B 
+          
+         
+          
+              philippines.poly  
+              8 hours ago  
+             511&nbsp;B 
+          
+         
+       
+    
+ 
+
+
+
+
+
+
+ 
+ 
+    
+      
+        
+       
+         import map from '/static/map.js';
+         import { GeoJSON } from 'leaflet';
+         
+   const geojson = {"coordinates": [[[[112.1661, 9.000349], [118.0067, 21.53021], [127.0742, 21.52734], [127.073, 4.829195], [120.0008, 4.749364], [120.0003, 4.382696], [118.9999, 4.442441], [118.9995, 4.700475], [119.5823, 5.266686], [118.8327, 5.999363], [118.3333, 5.999379], [117.9666, 6.28266], [117.9661, 6.86657], [116.9998, 7.666033], [112.1663, 7.666295], [112.1661, 9.000349]]]], "type": "MultiPolygon"};
+   const layer = new GeoJSON(geojson, {
+      style: { fillColor: '#ffcc66', color: '#ff9933', weight: 2, fillOpacity: 0.5 }
+   }).addTo(map);
+   map.fitBounds(layer.getBounds(), { padding: [20, 20] });
+   const childrenGeo = {};
+   
+   
+
+   let activeLayer = null;
+   document.querySelectorAll('#subregions tr[data-child-id], #special_regions tr[data-child-id]').forEach(row => {
+      row.addEventListener('mouseover', () => {
+         const id = row.getAttribute('data-child-id');
+         if (!childrenGeo[id]) return;
+         if (activeLayer) map.removeLayer(activeLayer);
+         activeLayer = new GeoJSON(childrenGeo[id], {
+            style: { color: '#ff0000', weight: 0, fillOpacity: 0.6 }
+         }).addTo(map);
+      });
+      row.addEventListener('mouseout', () => {
+         if (activeLayer) { map.removeLayer(activeLayer); activeLayer = null; }
+      });
+   });
+
+       
+      
+
+       
+          
+          
+         Not what you were looking for?
+         Geofabrik is a consulting and software development firm based in Karlsruhe, Germany
+         specializing in OpenStreetMap services. We're happy to help you with data
+         preparation, processing, server setup and the like.  Check out our web site 
+         and contact us if we can be of service.
+          
+       
+       
+          
+          
+         Nicht das Richtige dabei?
+         Die Geofabrik ist ein auf OpenStreetMap spezialisiertes Beratungs- und Softwareentwicklungsunternehmen in Karlsruhe.
+         Gern helfen wir Ihnen bei der Datenaufbereitung, Datenkonvertierung, Serverinstallation und &auml;hnlichen Aufgaben.
+          Besuchen Sie unsere Webseite  und sprechen Sie mit uns, wenn wir Ihnen
+         helfen k&ouml;nnen.
+          
+       
+    
+ 
+ 
+ 
+ 
+Data processed by
+ Geofabrik GmbH 
+and created by
+ OpenStreetMap Contributors 
+|
+ License: ODbL 1.0 
+|
+ Contact 
+|
+ Legal Notice/Privacy Policy 
+ 
+ 
+ 

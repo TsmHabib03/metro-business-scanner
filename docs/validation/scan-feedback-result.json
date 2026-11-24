@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-11-24T10:30:25.485Z",
+  "results": [
+    {
+      "device": "desktop",
+      "browserOnlyFixtures": true,
+      "checks": [
+        "bounded scope submission",
+        "start spinner and duplicate prevention",
+        "actual stage, elapsed and saved count",
+        "stage/count polling",
+        "cancel pending and completion",
+        "history retry available",
+        "no horizontal overflow"
+      ],
+      "errors": []
+    },
+    {
+      "device": "mobile",
+      "browserOnlyFixtures": true,
+      "checks": [
+        "bounded scope submission",
+        "start spinner and duplicate prevention",
+        "actual stage, elapsed and saved count",
+        "stage/count polling",
+        "cancel pending and completion",
+        "history retry available",
+        "no horizontal overflow"
+      ],
+      "errors": []
+    }
+  ]
+}

@@ -1,0 +1,4682 @@
+﻿
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Policies and attributions for Places API  |  Places API (New)  |  Google for Developers 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Google 
+ 
+ Maps Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Products
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Documentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get Started 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get Started with Google Maps Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capabilities Explorer
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pricing & Billing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Security & Compliance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reporting & Monitoring
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FAQ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Support and Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer Care
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Incident Management
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maps 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maps JavaScript API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maps SDK for Android
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maps 3D SDK for Android
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maps SDK for iOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maps 3D SDK for iOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Google Maps for Flutter
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maps Embed API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maps Static API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Street View Static API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maps URLs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Aerial View API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Elevation API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Map Tiles API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maps Datasets API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Web Components
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Routes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Routes API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Navigation SDK for Android
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Navigation SDK for iOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Navigation for Flutter
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Navigation for React Native
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Roads API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Route Optimization API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Analytics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Google Earth
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Places Insights
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Population Dynamics Insights
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Street View Insights
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Roads Management Insights
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Places 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Places API (New)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Places SDK for Android
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Places SDK for iOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Places Library, Maps JavaScript API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Geocoding API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Geolocation API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Address Validation API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Time Zone API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Places Aggregate API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Isochrones API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Environment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Air Quality API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pollen API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Solar API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weather API
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Architecture Center
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Industry solutions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WordPress Users
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resources for AI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overview
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Agent skills
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Agentic data visualization token
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Agentic UI toolkit
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Code Assist toolkit
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maps Experience agent tools
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maps in AI Studio
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Additional Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ API Security Best Practices
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Digital Signature Guide
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Map Coverage Details
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Optimization Guide
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mobile OS and software support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Launch stages
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Legacy products
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deprecations
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ URL Encoding
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blog
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Community
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GitHub
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ YouTube
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LinkedIn
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discord
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Innovators
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Issue Tracker
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ / 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ English 
+ 
+ 
+ 
+ Deutsch 
+ 
+ 
+ 
+ Español 
+ 
+ 
+ 
+ Español – América Latina 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Indonesia 
+ 
+ 
+ 
+ Italiano 
+ 
+ 
+ 
+ Polski 
+ 
+ 
+ 
+ Português – Brasil 
+ 
+ 
+ 
+ Tiếng Việt 
+ 
+ 
+ 
+ Türkçe 
+ 
+ 
+ 
+ Русский 
+ 
+ 
+ 
+ עברית 
+ 
+ 
+ 
+ العربيّة 
+ 
+ 
+ 
+ فارسی 
+ 
+ 
+ 
+ हिंदी 
+ 
+ 
+ 
+ বাংলা 
+ 
+ 
+ 
+ ภาษาไทย 
+ 
+ 
+ 
+ 中文 – 简体 
+ 
+ 
+ 
+ 中文 – 繁體 
+ 
+ 
+ 
+ 日本語 
+ 
+ 
+ 
+ 한국어 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Places API (New)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get Started 
+
+ 
+ Contact sales 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Guides
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reference
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Legacy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Google 
+ 
+ Maps Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pricing
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Documentation
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ More
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Guides
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reference
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resources
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Legacy
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blog
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Community
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ More
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Support 
+ 
+
+ Support options 
+
+ Release notes 
+
+ Places Web Service FAQ 
+
+ Stay Informed 
+
+ Terms of Use 
+
+ 
+ Best practices 
+ 
+
+ Web services best practices 
+
+ 
+ Billing and monitoring 
+ 
+
+ Usage and billing 
+
+ Reporting and monitoring 
+
+ 
+ Policies and terms 
+ 
+
+ Policies and attributions 
+
+ Terms of service 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Get Started
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Get Started with Google Maps Platform
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Capabilities Explorer
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Pricing & Billing
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Security & Compliance
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Reporting & Monitoring
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ FAQ
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Support and Resources
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Customer Care
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Incident Management
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Maps
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Maps JavaScript API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Maps SDK for Android
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Maps 3D SDK for Android
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Maps SDK for iOS
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Maps 3D SDK for iOS
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Google Maps for Flutter
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Maps Embed API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Maps Static API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Street View Static API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Maps URLs
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Aerial View API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Elevation API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Map Tiles API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Maps Datasets API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Web Components
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Routes
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Routes API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Navigation SDK for Android
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Navigation SDK for iOS
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Navigation for Flutter
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Navigation for React Native
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Roads API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Route Optimization API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Analytics
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Google Earth
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Places Insights
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Population Dynamics Insights
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Street View Insights
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Roads Management Insights
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Places
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Places API (New)
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Places SDK for Android
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Places SDK for iOS
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Places Library, Maps JavaScript API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Geocoding API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Geolocation API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Address Validation API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Time Zone API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Places Aggregate API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Isochrones API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Environment
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Air Quality API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Pollen API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Solar API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Weather API
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Solutions
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Architecture Center
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Industry solutions
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ WordPress Users
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Resources for AI
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Overview
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Agent skills
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Agentic data visualization token
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Agentic UI toolkit
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Code Assist toolkit
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Maps Experience agent tools
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Maps in AI Studio
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Additional Resources
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ API Security Best Practices
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Digital Signature Guide
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Map Coverage Details
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Optimization Guide
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Mobile OS and software support
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Launch stages
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Legacy products
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Deprecations
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ URL Encoding
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ GitHub
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ YouTube
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ LinkedIn
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Discord
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Innovators
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Issue Tracker
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Google Maps Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Documentation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Places API (New)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Resources
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Send feedback
+ 
+ 
+ 
+ 
+ 
+ Policies and attributions for Places API 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Stay organized with collections
+ 
+ 
+ 
+ Save and categorize content based on your preferences.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page Summary 
+ 
+ 
+ 
+ 
+ 
+ 
+ outlined_flag 
+ 
+ 
+ 
+ 
+ 
+ Applications using the Places API must provide publicly accessible Terms of Use and a Privacy Policy that incorporate Google's Terms of Service and Privacy Policy, respectively. 
+
+ 
+ 
+ 
+ You must not pre-fetch, cache, or store Places API content beyond the allowed exceptions, although the place_id is exempt from caching restrictions. 
+
+ 
+ 
+ 
+ Places API results displayed on a map must be shown on a Google Map, with proper attribution including the Google logo and third-party data providers, if applicable. 
+
+ 
+ 
+ 
+ When displaying Places API data without a Google Map, you must include the Google logo, adhering to the provided style guidelines and attribution requirements. 
+
+ 
+ 
+ 
+ You must retrieve and display attributions for place details, photos, and reviews obtained through the Places API, including author information and links where available. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+ This document lists requirements that are specific to all applications
+ developed with the Places API (New), including the Autocomplete (New)
+ service that is part of that API. More general information for Google Maps
+ developers may be found in the
+ Google Maps Platform Terms of Service .
+ 
+
+ 
+
+
+
+ Policies 
+
+ This section describes policies relevant to Places API. Policies provide practical
+ implementation guidelines and requirements to help you use the Service
+ correctly and in line with Google Maps Platform's expectations.
+ 
+
+
+
+ Data storage, caching, and scraping 
+
+ When using Google Maps Content in your application, follow the data
+ handling requirements in Section 3.2.3 of the
+ Google Maps Platform Terms of Service 
+ and the
+ Google Maps Platform Service Specific Terms : 
+
+ 
+ Caching and scraping restrictions (Section 3.2.3(a) and
+ (b)): Cache or store Google Maps Content only as expressly
+ permitted under the
+ Google Maps Platform Service Specific Terms .
+ Don't export, extract, or scrape Google Maps Content for use outside the
+ Services. For example, don't pre-fetch, index, store, or redistribute
+ Google Maps Content outside the Services; bulk download map tiles, Street
+ View images, geocodes, directions, distance matrix results, roads
+ information, places information, elevation values, or time zone details; or
+ copy and save business names, addresses, or user reviews. 
+ Derived content restrictions (Section 3.2.3(c)): Use
+ Google Maps Content within your application as permitted by the
+ Google Maps Platform Terms of Service .
+ Don't create content based on Google Maps Content. For example, don't trace
+ or digitize features from satellite imagery, build 3D or terrain models,
+ use Places latitude and longitude values as input for point-in-polygon
+ analysis, construct a location index from Street View imagery, or convert
+ text-based driving times into synthesized speech. 
+ 
+
+ To reduce latency and billing costs without caching restricted data, use
+ field masks or field lists to request only the fields that your user
+ interface needs. Store exempt identifiers such as the place ID to fetch fresh
+ details when a user interacts with a place. 
+
+ Google technical support engineers can't provide legal advice or grant
+ exceptions to the Google Maps Platform Terms of Service. Consult your legal counsel to
+ determine whether your implementation complies with the terms, or
+ contact Sales 
+ if your use case requires custom licensing. 
+
+ 
+
+
+
+ Exceptions from caching restrictions 
+
+ The Google Maps Platform Service Specific Terms 
+ grant the following limited caching exceptions: 
+
+ 
+ Place IDs: The place ID , used to
+ uniquely identify a place, is exempt from the
+ caching restrictions .
+ You can therefore store place ID values indefinitely. Place IDs are returned
+ in the
+ id 
+ or
+ place_id 
+ field in API responses. Learn how to save, refresh, and manage place IDs in
+ the
+ Place IDs guide . 
+ Latitude and longitude coordinates: You can temporarily
+ cache latitude
+ ( latitude )
+ and longitude
+ ( longitude )
+ values for up to 30 consecutive calendar days, after which you must delete
+ the cached coordinates, when using services that grant this exception in the
+ Google Maps Platform Service Specific Terms :
+ 
+ Routes API, Route Optimization API,
+ Directions API (Legacy), and Roads API 
+ Geocoding API, Geolocation API, and
+ Address Validation API 
+ Places API, Places UI Kit, and
+ Navigation SDK 
+ 
+ 
+ Service-specific caching periods: The
+ Google Maps Platform Service Specific Terms 
+ also define field-specific caching periods and permitted purposes for the
+ Address Validation API, Air Quality API,
+ Pollen API, Solar API,
+ Weather API, and Places Aggregate API. 
+ 
+
+ 
+
+
+ 
+ 
+
+
+
+ European Economic Area countries and territories 
+
+ This product has different Terms of Service for customers with a billing address in the
+ European Economic Area (EEA), and it may also have different functionality.
+ Before building with Google Maps Platform, review the following EEA-specific
+ terms and information: 
+
+ 
+ Google Maps Platform EEA Terms of Service 
+ Google Maps Platform EEA Service Specific Terms 
+ EEA frequently asked questions (FAQ) 
+ Google Maps Platform Road Safety Requirements 
+ 
+
+ If your billing address is not in the EEA, the following terms of service apply to you: 
+
+ 
+ Google Maps Platform Terms of Service 
+ Google Maps Platform Service Specific Terms 
+ 
+
+
+ 
+
+
+
+
+ Google Maps attribution requirements 
+
+ This section provides attribution requirements and guidelines for displaying Google
+ Maps and Content through your applications. 
+
+ 
+ Note: The following updated attribution requirements now use "Google Maps"
+ instead of only "Google." We acknowledge that your existing implementations may use the
+ attribution of "Google,"
+ in alignment with prior guidance, and you may continue using "Google" as an attribution for now.
+ For new implementations, use "Google Maps" as described in this section. In the future,
+ we will provide timelines and instructions to help you transition existing "Google" attributions
+ to "Google Maps" attributions.
+ 
+
+
+
+
+
+
+
+ Display Google Maps attribution 
+
+ You must follow Google Maps attribution requirements when displaying Content from
+ Google Maps Platform APIs in your app or website. You don't need to add extra attribution
+ if the Content is shown on a Google Map where the attribution is already visible.
+ 
+
+
+
+ Included Google Maps attribution 
+
+ For Google Maps attribution that is already provided by Google Maps Platform in
+ the user interface, such as in Places UI Kit:
+ 
+
+ 
+ Don't remove included attribution regardless of where it is displayed. Don't alter, hide,
+ or obscure the attribution and make sure it is clearly visible against the background. 
+ Always visually distinguish Google Maps Platform Content from other content by using UI
+ cues such as a border, background color, shadow, or sufficient whitespace. 
+ When making visual modifications, you must adhere to all Google Maps attribution
+ requirements. 
+ 
+
+
+
+ Google Maps logo and text attribution 
+
+ Attribution should take the form of the Google Maps logo whenever possible.
+ In cases where space is limited, the text Google Maps is acceptable.
+ It must always be clear to end users which content is provided by Google Maps. 
+
+ 
+ 
+ Left: Example of Google Maps logo attribution, Right: Example of Google Maps text attribution 
+ 
+
+ Logo attribution 
+
+Follow these requirements for using the Google Maps logo in your app or website.
+
+ 
+ 
+ Examples of acceptable variations for Google Maps logo attribution 
+ 
+
+ Download Google Maps logos 
+
+ Use the official Google Maps logo files. Download the logos below, and follow the guidelines in this section. 
+
+ Download the Google Maps attribution assets 
+
+ When using the Google Maps logo, follow these guidelines. 
+
+ 
+ Don't modify the logo in any way. 
+ Maintain the aspect ratio of the logo to prevent distortion. 
+ Use the outlined logo on a busy background, like a map or image. 
+ Use the non-outlined logo on a plain background, like a solid color or subtle gradient. 
+ 
+
+ Logo size specification 
+
+Follow these size specifications for the Google Maps logo:
+
+ 
+ Minimum logo height: 16dp 
+ Maximum logo height: 19dp 
+ Minimum logo clear space: 10dp on left, right and top, 5dp on the bottom 
+ 
+
+ To learn about dp, see Pixel density on the Material Design website. 
+
+ 
+ 
+ Example of Google Maps logo showing minimum clear space and acceptable size range 
+ 
+
+ Logo accessibility 
+
+Follow these accessibility requirements for the Google Maps logo:
+
+ 
+ Maintain an accessible contrast between the logo and the background. 
+ Include an accessibility label with the text Google Maps . 
+ 
+
+ 
+ 
+ Examples of unacceptable variations and accessibility issues for Google Maps logo attribution 
+ 
+
+ Text attribution 
+
+ If the size of your interface does not support using the Google Maps logo, you can spell out Google Maps in text. Follow these guidelines: 
+
+ 
+ 
+ Examples of acceptable variations of the Google Maps text attribution 
+ 
+
+ 
+ Don't modify the text Google Maps in any way: 
+
+ 
+ Don't change the capitalization of Google Maps 
+ Don't wrap Google Maps onto multiple lines 
+ Don't localize Google Maps into another language. 
+ Prevent browsers from translating Google Maps by using the HTML attribute translate="no" . 
+ 
+ 
+
+ 
+ 
+ Examples of unacceptable variations of the Google Maps text attribution 
+ 
+
+ 
+ Style Google Maps text as described in the following table: 
+ 
+ 
+ 
+ Google Maps text-styling requirements 
+ 
+ 
+ 
+ 
+ Property 
+ Style 
+ 
+ 
+ Font family 
+ Roboto . Loading the font is optional. 
+ 
+ 
+ Fallback font family 
+ Any sans serif body font already used in your product or "Sans-Serif" to invoke the default system font 
+ 
+ 
+ Font style 
+ Normal 
+ 
+ 
+ Font weight 
+ 400 
+ 
+ 
+ Font color 
+ White, black (#1F1F1F), or gray (#5E5E5E). Maintain accessible (4.5:1) contrast against the background. 
+ 
+ 
+ Font size 
+ Minimum font size: 12sp 
+ Maximum font size: 16sp 
+ To learn about sp, see Font size units on the Material Design website. 
+ 
+ 
+ Letter spacing 
+ Normal 
+ 
+ 
+ 
+ 
+ 
+
+ Example CSS 
+
+ The following CSS renders Google Maps with the appropriate typographic style and color on a white or light background. 
+
+ 
+ @import url ( 'https://fonts.googleapis.com/css2?family=Roboto&display=swap' ); 
+
+ . GMP - attribution { 
+ font - family : Roboto , Sans - Serif ; 
+ font - style : normal ; 
+ font - weight : 400 ; 
+ font - size : 1 rem ; 
+ letter - spacing : normal ; 
+ white - space : nowrap ; 
+ color : #5e5e5e; 
+ } 
+ 
+
+ Visual requirements 
+
+Follow these requirements for the visual treatment of Google Maps attribution.
+
+ 
+ Position attribution near the top or bottom of the content, and within the same visual container. For a single line of content, attribution can be positioned to the right or left. 
+ Visually distinguish Google Maps Platform Content from other content by using UI cues such as a border, background color, shadow, or sufficient whitespace. 
+ Don't misrepresent Google Maps by attributing it with non-Google Maps Platform content. 
+ Verify that the attribution is always visible and legible. Never remove, hide, obscure, or modify it. 
+ 
+
+ The following figures show examples of these visual requirements. 
+
+ 
+ 
+ Example of Google Maps attribution positioned at the top, at the bottom, and to the side of the content 
+ 
+
+ 
+ 
+ Example of two approaches to differentiating Google Maps Content (the place rating) from other content 
+ 
+
+ 
+ 
+ Don't obscure the Google Maps attribution or mix it with content from other sources 
+ 
+
+
+ Third-party data providers 
+
+ Some of the data and images on our mapping products come from providers other than Google.
+ For some products, such as Map Tiles API, we may provide you with the required attribution
+ to the third-party data provider. When we do, the text of your
+ attribution must say the name "Google Maps" and the relevant
+ data provider(s), such as "Map data: Google, Maxar Technologies." When Google provides
+ third-party attribution, only including "Google Maps" or the Google logo is not
+ proper attribution.
+ 
+
+
+
+ 
+
+
+
+
+
+
+ Additional Places API requirements 
+
+ The following requirements are specific to the Places API. 
+
+ Autocomplete for end user addresses 
+
+ When an end user uses Autocomplete functionality within your Customer Application to type
+ ahead a street address and that street address would have been completely and accurately provided
+ by that end user without Autocomplete, the end user's selected address is then
+ not subject to the Google Maps Content restrictions in your Google Maps Platform Agreement.
+ This exception applies only to the street address selected by the end user and solely for
+ that end user's specific transaction; it does not apply to the list of suggested addresses
+ provided by the Autocomplete functionality or to other Google Maps Content. This exception does
+ not apply to any POI or address lookup functionality offered by other Google Maps Platform
+ Services.
+ 
+
+ 
+
+ 
+ The address list on the left is still subject to the restrictions on
+ Google Maps Content. Once the end user selects their chosen address, that address is not subject
+ to the restrictions on Google Maps Content solely for the purpose of that end user's
+ applicable transaction.
+ 
+
+ Photos and reviews 
+
+ Attribute all content to the content author 
+
+ You must always credit the author when displaying photos or reviews. Each photo and review
+ includes an author attribution (author's avatar image, name, and profile link). 
+
+ Visual requirements for author attribution: 
+
+ 
+ Attribute the author using all available resources (avatar, name, and profile link) when space
+ allows. 
+ For reviews, If space is limited, the minimum requirement is to display the author's
+ avatar. 
+ For photos, if space is limited (such as in a gallery or for thumbnails), the author
+ attribution can be omitted, provided that the user is able to access a larger version of the
+ image that includes the full author attribution. 
+ Position author attribution so it is clearly associated with the author's photo or
+ review. 
+ 
+
+ 
+ 
+ Example of an author attribution displayed in the top left corner of the photo and review 
+ 
+
+ Provide direct access to the source content on Google Maps 
+
+ For each photo and review, end-users must always have access to view the individual source photo
+ or review on Google Maps using the provided googleMapsUri .
+ 
+
+ 
+ 
+ Example of a vertical menu with links to view the source photo or review on Google Maps 
+ 
+
+ Display the relative publish date (recommended) * 
+
+ Displaying the relative publish date (for example, "2 days ago") for photos and reviews using the
+ provided relativePublishTimeDescription increases user trust in the content. 
+
+ Enable content reporting (recommended) * 
+
+ Photos and reviews provided through the Places API (New) and Places API (Legacy) are subject to Google's content and product
+ policies wherever you are in the world. You and your end-users can report content that you would
+ like removed from Google's services under Google's policies or applicable laws using the
+ flagContentUri for each photo and review. Alternatively, content can be reported by
+ following the direct link to the content on Google Maps, where reporting a problem is also
+ available.
+ 
+
+ Reviews 
+
+ Describe how reviews are ordered and filtered 
+
+ Include a clear notice that describes how reviews are being ordered and filtered including any
+ search criteria applied. By default, reviews are ordered by relevance. 
+
+ 
+ 
+ Example of a notice describing how reviews are ordered 
+ 
+
+ Display the month and year that reviewers visited places in France 
+
+ When displaying reviews of places in France and French territories, the Places API returns a
+ visitDate (the month and year in which the author visited the place), which must be
+ displayed alongside the content.
+ 
+
+ 
+ 
+ Example of the visit date displayed beneath a user review 
+ 
+
+ Inform end users when reviews have been translated (recommended) * 
+
+ Make end users aware when a review has been translated from its original language. You can enable
+ end users to view the original non-translated text originalText . Alternatively, they
+ can follow the direct link to the content on Google Maps where original non-translated text is
+ available.
+ 
+
+ 
+ 
+ Example of a translation notice displayed beneath a user review 
+ 
+
+ Reviews and average rating 
+
+ Inform end users about how Google verifies reviews (recommended) * 
+
+ Reviews aren't verified by Google, but Google checks for and removes fake content when it's
+ identified. Inform end users of Google's review policy when displaying reviews and average rating.
+ Learn more about Google
+ Maps user-generated content policy .
+ 
+
+ 
+ 
+ Example of a notice describing Google's review policy 
+ 
+
+ AI-powered summaries 
+
+ When you display AI-powered summaries in your app — including place, area, and
+review summaries — you must do the following: 
+
+ 
+ Display the required attributions, reporting links, and reference links as
+defined below. 
+ End users must be able to read the full summary text as it is provided by
+Google Maps. 
+ 
+
+ Display AI-powered summaries disclosure text 
+
+ When displaying an AI-powered summary of any type, always include the localized
+disclosure text (provided in the disclosureText field of the response body)
+immediately below the summary. Never modify or augment the disclosure text
+provided by the API. 
+
+ 
+ 
+ Disclosure text properly displayed below each of the three AI-powered summary types 
+ 
+
+ Place and area summary additional requirements 
+
+ Place and area
+summaries displayed in
+your app must be accompanied by the following text and required links: 
+
+ 
+ 
+ Text 
+ Requirement 
+ 
+ 
+ 
+ About this summary 
+ Use the following link to "How Google sources and uses information in local listings": https://support.google.com/local-listings/answer/9851099 . 
+ 
+ 
+ Report summary 
+ 
+ Use the link contained in the flagContentUri field of the response to enable reporting an issue to Google about the content of a summary. 
+ Note: AI-powered summaries provided through the Places API (New) are subject to Google's content and product policies wherever you are in the world. You are required to notify your end users that if they would like to report content that should be removed from Google's services under applicable laws, they should report it using the provided flag content URL ( flagContentUri ). 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ AI-powered area summary shown with required associated links made available to end users using an overflow menu 
+ 
+
+ Review summary requirements 
+
+ Review summaries 
+displayed in your app must be accompanied by a heading with the text "Review
+summary." Additionally, you must use the following text and required links: 
+
+ 
+ 
+ Text 
+ Requirement 
+ 
+ 
+ 
+ About this summary 
+ Use the following link to "How Google sources and uses information in local listings": https://support.google.com/local-listings/answer/9851099 
+ 
+ 
+ Report summary 
+ 
+ Use the link contained in the flagContentUri field of the response. 
+ Note: AI-powered summaries provided through the Places API (New) are subject to Google's content and product policies wherever you are in the world. You are required to notify your end users that if they would like to report content that should be removed from Google's services under applicable laws, they should report it using the provided flag content URL ( flagContentUri ). 
+ 
+ 
+ 
+ See reviews 
+ Use the link contained in the reviewSummary.reviewsUri field of the response. 
+ 
+ 
+ 
+
+ 
+ 
+ AI-powered review summary shown with required associated links made available to end users using an overflow menu 
+ 
+
+ Display guidance for automotive use cases 
+
+ For driver safety, Google recommends rendering AI-powered summaries in parked
+mode for automotive experiences. If rendering summaries in driving mode,
+on-screen information should be clear and concise to ensure that the driver's
+attention returns quickly to the road: 
+
+ 
+ No more than 3 lines 
+ 120 characters or 24 words or less 
+ Minimum front size of 24dp 
+ 
+
+ Especially in automotive contexts, it's the developer's responsibility to render
+AI-powered summaries in ways that are safe and compliant with all local laws and
+regulations. 
+
+ Place search results 
+
+ Describe the factors that influence search results ranking (recommended) * 
+
+ Within one user interaction, end users should be made aware of the main factors
+and the weighting of the main factors that determine search results ranking. 
+
+ When using Google's unmodified ranking, you can display the following explainer
+text: 
+
+ "When searching for businesses or places near a location, Google Maps will show
+local results. Several factors — primarily relevance, distance and prominence —
+are combined to help find the best results for a search. Learn
+more ." 
+
+ 
+ 
+ Dialog describing how Google determines search results ranking 
+ 
+
+ Compliance with applicable laws 
+
+ You are required to adhere to all the applicable laws at all times. Note that
+practices labeled as (recommended) in these policies may still be mandated
+by law. Furthermore, following all stated requirements and recommended practices
+does not guarantee full legal compliance across all jurisdictions. If you have
+questions about your compliance status, you should seek guidance from your legal
+counsel. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Send feedback
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+ Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License , and code samples are licensed under the Apache 2.0 License . For details, see the Google Developers Site Policies . Java is a registered trademark of Oracle and/or its affiliates. 
+ Last updated 2026-11-09 UTC. 
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Need to tell us more?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2026-11-09 UTC."],[],["Applications using the Places API must provide publicly available Terms of Use and a Privacy Policy, explicitly referencing Google's terms. Content, except for place IDs, cannot be cached or stored unless permitted by agreement. Places API results must display on a Google Map, if a map is used. When displaying data without a map, the Google logo must be present, and attributions must be displayed in proximity, not obscured, and include third-party data providers. Search products in Europe must explain the factors determining search result ranking. Style guidelines for Google attribution are provided, including font, color, and spacing.\n"]]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stack Overflow
+ 
+ 
+ Ask a question under the google-maps tag. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GitHub
+ 
+ 
+ Fork our samples and try them yourself. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discord
+ 
+ 
+ Chat with fellow developers about Google Maps Platform. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Issue Tracker
+ 
+ 
+ Something wrong? Send us a bug report! 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FAQ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capabilities Explorer
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Place ID Finder
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Platforms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Android
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ iOS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Web
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Web Services
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product Info 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pricing and Plans
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact Sales
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Support
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Terms of Service
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Android
+ 
+ 
+ 
+ 
+ 
+ Chrome
+ 
+ 
+ 
+ 
+ 
+ Firebase
+ 
+ 
+ 
+ 
+ 
+ Google Cloud Platform
+ 
+ 
+ 
+ 
+ 
+ Google AI
+ 
+ 
+ 
+ 
+ 
+ All products
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Terms
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Privacy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manage cookies
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ English 
+ 
+ 
+ 
+ Deutsch 
+ 
+ 
+ 
+ Español 
+ 
+ 
+ 
+ Español – América Latina 
+ 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Indonesia 
+ 
+ 
+ 
+ Italiano 
+ 
+ 
+ 
+ Polski 
+ 
+ 
+ 
+ Português – Brasil 
+ 
+ 
+ 
+ Tiếng Việt 
+ 
+ 
+ 
+ Türkçe 
+ 
+ 
+ 
+ Русский 
+ 
+ 
+ 
+ עברית 
+ 
+ 
+ 
+ العربيّة 
+ 
+ 
+ 
+ فارسی 
+ 
+ 
+ 
+ हिंदी 
+ 
+ 
+ 
+ বাংলা 
+ 
+ 
+ 
+ ภาษาไทย 
+ 
+ 
+ 
+ 中文 – 简体 
+ 
+ 
+ 
+ 中文 – 繁體 
+ 
+ 
+ 
+ 日本語 
+ 
+ 
+ 
+ 한국어 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 

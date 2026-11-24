@@ -1,0 +1,18 @@
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    environment:
+      POSTGRES_DB: metro_scanner
+      POSTGRES_USER: scanner
+      POSTGRES_PASSWORD: local_scanner_dev
+    ports:
+      - "127.0.0.1:54330:5432"
+    volumes:
+      - scanner_db:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -h 127.0.0.1 -U scanner -d metro_scanner"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+volumes:
+  scanner_db:

@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-11-24T10:26:11.472Z",
+  "browserOnlyFixtures": true,
+  "checks": [
+    "independent 53 map points and 50 list rows",
+    "off-page painted marker opens UUID detail",
+    "painted cluster expands",
+    "overlap choice opens second business",
+    "late details cannot replace latest selection",
+    "save action sends selected record notes",
+    "late search response cannot replace latest filter",
+    "API failure clears loading and next query recovers",
+    "blocked basemap leaves usable list and retry",
+    "visible-area filter persists in URL"
+  ],
+  "errors": []
+}

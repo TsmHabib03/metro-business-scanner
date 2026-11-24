@@ -1,0 +1,19 @@
+{
+  "source": "Geofabrik local extract",
+  "sourceTimestamp": "2026-11-23T21:21:17.000Z",
+  "scanId": "da810710-1066-4c0d-8528-775817ea579f",
+  "stored": 22,
+  "geoAreas": 25,
+  "websiteStates": {
+    "not_listed": 20,
+    "review": 2
+  },
+  "checks": [
+    "real scan",
+    "geography",
+    "save and restore prospect",
+    "CSV attribution",
+    "Excel",
+    "cancel queued scan"
+  ]
+}

@@ -1,0 +1,53 @@
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: metro_scanner
+      POSTGRES_USER: scanner
+      POSTGRES_PASSWORD: ${DB_PASSWORD:?Set a production database password}
+    volumes:
+      - production_db:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -h 127.0.0.1 -U scanner -d metro_scanner"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+  app:
+    build:
+      context: .
+      args:
+        VITE_MAP_TILE_URL: ${VITE_MAP_TILE_URL:-}
+        VITE_MAP_ATTRIBUTION: ${VITE_MAP_ATTRIBUTION:-}
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgresql://scanner:${DB_PASSWORD}@db:5432/metro_scanner
+      PUBLIC_ORIGIN: https://${DOMAIN:?Set your domain}
+      ACCESS_USERNAME: ${ACCESS_USERNAME:?Set a username}
+      ACCESS_PASSWORD: ${ACCESS_PASSWORD:?Set a long private password}
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - source_data:/app/.local-data
+  proxy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    environment:
+      DOMAIN: ${DOMAIN}
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - ./deployment/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      app:
+        condition: service_healthy
+volumes:
+  production_db:
+  source_data:
+  caddy_data:
+  caddy_config:

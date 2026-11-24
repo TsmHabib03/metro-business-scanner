@@ -1,0 +1,15 @@
+# Documentation/research must never become browser-delivered app assets.
+docs/research/
+docs/design-references/
+docs/DESIGN-OPTIONS.json
+docs/validation/
+.impeccable/
+.git/
+node_modules/
+.env
+.env.*
+.local-data/
+.local-tools/
+dist/
+**/__pycache__/
+deployment/.env*

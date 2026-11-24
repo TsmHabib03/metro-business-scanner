@@ -1,0 +1,9 @@
+{
+  "checkedAt": "2026-11-24T10:26:51.322Z",
+  "checks": [
+    "filtered CSV contains Facebook, Instagram and attribution",
+    "Excel includes social_links and license sheet",
+    "missing UUID record returns 404"
+  ],
+  "mutatedRecords": false
+}

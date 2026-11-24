@@ -1,0 +1,44 @@
+{
+  "baseline": {
+    "city": "Quezon City",
+    "category": "dental",
+    "limit": 100,
+    "processingMs": 266183,
+    "stored": 100
+  },
+  "exactCityBundleMatch": true,
+  "results": [
+    {
+      "city": "Quezon City",
+      "scanId": "ee4e7e50-6e7c-488c-919d-ab1abd35a115",
+      "acceptedMs": 54,
+      "observedMs": 2563,
+      "processingMs": 2451,
+      "found": 100,
+      "stored": 100,
+      "stages": [
+        "Verifying area",
+        "Discovering businesses",
+        "Saving source evidence",
+        "Complete"
+      ]
+    },
+    {
+      "city": "Pasig",
+      "scanId": "15fd7f11-e250-4cc3-ae4e-b851f2f032ad",
+      "acceptedMs": 24,
+      "observedMs": 2239,
+      "processingMs": 2125,
+      "found": 14,
+      "stored": 14,
+      "stages": [
+        "Waiting for worker",
+        "Waiting for local data preparation",
+        "Preparing local data: matching city and barangay boundaries",
+        "Saving source evidence",
+        "Complete"
+      ]
+    }
+  ],
+  "notePreservation": true
+}

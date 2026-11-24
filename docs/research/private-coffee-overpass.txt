@@ -1,0 +1,319 @@
+ 
+ 
+   
+     
+     
+     Overpass by Private.coffee 
+     
+   
+   
+     
+       
+         Overpass  by Private.coffee  
+         
+           
+              Home  
+              About us  
+             
+               Support us 
+             
+           
+         
+       
+     
+     
+       
+         
+           Welcome to  Overpass  
+           
+            A free and unlimited Overpass instance, now managed by
+            Private.coffee.
+           
+           Learn More 
+         
+       
+     
+     
+      This service is operated by Private.coffee, an Austrian non-profit
+      organization dedicated to providing free and open-source services.
+       Your donations help us keep the lights on! 
+     
+     
+       
+         Get Started with Overpass 
+         
+          Use our endpoints in any project requiring access to OpenStreetMap
+          data, including commercial use. No registration needed, just point
+          your application to our endpoint and start using the service!
+         
+         
+          https://overpass.private.coffee/api/interpreter
+         
+         
+           
+             Unlimited Access 
+             
+              Enjoy free and unlimited access to all features without any rate
+              limits. We trust our users to share resources fairly.
+             
+           
+           
+             Feature Support 
+             
+              Supports all Overpass API features including regular requests,
+              area access, attic data, map generation, and more.
+             
+           
+           
+             Privacy Focus 
+             
+              We respect your privacy and do not store personal data. Only
+              non-sensitive metadata is logged temporarily to ensure smooth
+              operations.
+             
+           
+         
+         
+           Test the API 
+           Read the Docs 
+           Contact Us 
+         
+       
+     
+     
+       
+         Terms of Use 
+         
+           Last updated: 10 April 2026 
+         
+         
+           1. Who Are We? 
+           
+            This service is operated by Private.coffee, a non-profit association
+            under Austrian law. You can find our full legal information
+             on our website .
+           
+           
+            If you have any questions or concerns about this service, you can
+            contact us by email at
+             support@private.coffee 
+            or join our Matrix room,
+             
+              #overpass:private.coffee  .
+           
+         
+         
+           2. What Is This Service? 
+           
+            Our Overpass API service provides programmatic access to data from
+             OpenStreetMap . Due to the nature of
+            this service, the data returned may be slightly outdated compared to
+            what is displayed on the OpenStreetMap website.
+           
+         
+         
+           3. How Can You Access This Service? 
+           
+            Our Overpass API endpoints are available at
+             https://overpass.private.coffee/api/ . For the default interpreter, use
+             https://overpass.private.coffee/api/interpreter . For testing purposes, you can use
+             Overpass Turbo .
+            For a full reference on usage, refer to the
+             Overpass API documentation .
+           
+         
+         
+           4. User Obligations 
+           
+             
+               Be Kind:  Optimize your queries, limit
+              simultaneous requests, and avoid malicious or disruptive use.
+             
+             
+               Respect Privacy:  Ensure your requests do not
+              contain any personally identifiable information.
+             
+             
+               Comply with OpenStreetMap's License:  Credit
+              OpenStreetMap and its contributors as required by their license.
+              Refer to
+               OpenStreetMap's copyright and license notice .
+             
+           
+         
+         
+           5. Prohibited Uses 
+           
+             Do not use this service for illegal activities. 
+             
+              Do not use this service in a way that could harm the service, its
+              users, or the OpenStreetMap community.
+             
+             
+              Do not use this service in projects that promote hate speech,
+              violence, discrimination, or any form of harm against individuals
+              or groups.
+             
+             
+              Do not use this service in projects related to warfare, military
+              applications, or any activities that could contribute to conflict
+              or harm.
+             
+           
+         
+         
+           6. Best Practices 
+           
+             
+              Use a meaningful User-Agent header. It should include your project
+              name and a means to contact you (e.g., a link to your project
+              website). By including an email address, you allow us to keep that
+              address on record for contact purposes.
+             
+             Prefer POST requests over GET requests where possible. 
+             
+              Notify us in advance of any large operations (e.g., sending over
+              ten requests per second, or running more than ten requests at a
+              time).
+             
+             
+              If you're using this service in a commercial project, consider
+              supporting us by
+               making a donation or becoming a member of Private.coffee .
+             
+           
+         
+         
+           7. Reliability and Disclaimer 
+           
+            We strive for reliability but provide the service "as is" without
+            any warranty. The service may be terminated at our sole discretion
+            at any time, and we are not liable for any damages incurred due to
+            service issues. Do not use this service for critical infrastructure
+            or where incorrect data could cause serious consequences.
+           
+         
+       
+     
+     
+       
+         Privacy Policy 
+         
+           1. Who Are We? 
+           
+            This service is operated by Private.coffee, a non-profit association
+            under Austrian law. You can find our full legal information
+             on our website .
+           
+         
+         
+           2. Information We Store 
+           
+            When you access our landing page or use our API endpoints, the
+            following metadata may be collected for each request:
+           
+           
+             
+              The first three bytes of the source IPv4 address (e.g.,
+              123.45.67.0) or the first eight bytes of the source IPv6 address
+              (e.g., 1234:5678:90ab:cdef::).
+             
+             The date and time of the request. 
+             The HTTP protocol version and request method. 
+             The requested endpoint (GET parameters are not logged). 
+             The HTTP Referer header content (if any). 
+             The HTTP User-Agent header content (if any). 
+           
+           
+            Logs may be retained for up to 48 hours and are used to detect and
+            mitigate technical issues. This data does not qualify as personal
+            data, so we do not require consent for storing it.
+           
+         
+         
+           3. Support Tickets 
+           
+            If you contact us by email, we collect the following information
+            from your message's headers:
+           
+           
+             The name and email address ("From" header). 
+             Your IPv4 or IPv6 address ("Received" header). 
+             The date and time of your message ("Date" header). 
+             Any other information you provide in the headers or body. 
+           
+           
+            This data is stored for thirty days after your support ticket is
+            closed to respond effectively to your inquiry or any follow-up
+            questions. It is then automatically deleted.
+           
+         
+         
+           4. Cookies 
+           
+            We use cookies only as part of our support system to keep you logged
+            in. You can disable cookies or manage them through your browser
+            preferences. If you only access our API or landing page, no cookies
+            are set.
+           
+         
+         
+           5. Your Rights 
+           
+             
+               Right to Access and Data Portability:  Request
+              copies of your personal data and transfer it to you or another
+              entity.
+             
+             
+               Right to Rectification:  Request corrections of
+              incorrect or incomplete data.
+             
+             
+               Right to Erasure:  Request deletion of data that
+              we're not legally required to retain.
+             
+             
+               Right to Restrict/Object to Processing:  Request
+              we restrict or cease processing your data.
+             
+           
+           
+            We process these requests within one month. You can contact us by
+            email or mail to exercise any of these rights.
+           
+           
+            If you believe that we are not processing your data in accordance
+            with applicable data protection laws, you have the right to complain
+            to the competent data protection authority. In Austria, this is the
+             Datenschutzbehörde .
+           
+           
+            If you have concerns about personal data that is returned by our
+            API, please note that this is information we got from a public
+            source. If you wish to get data removed from the OSM data set,
+            please
+             get in touch with the OSM Foundation 
+            directly.
+           
+         
+         
+           6. Obligations as an API User 
+           
+            Ensure your requests do not include personally identifiable
+            information. Communicate our privacy policy to your users or
+            reference it in your own privacy policy.
+           
+         
+       
+     
+     
+       
+         
+          Brought to you by  Private.coffee 
+         
+       
+     
+   
+ 
+
